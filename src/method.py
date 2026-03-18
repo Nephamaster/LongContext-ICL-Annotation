@@ -230,32 +230,32 @@ def annotate_nvidia(input_prompt:str)->list[str]:
             A prompt constructed for annotation.
             For example, ``["You are a data annotation assistant. Your task is to label ..."]``
     """
-    # import requests
-    # URL="http://0.0.0.0:2026/v1/completions"
+    import requests
+    URL="http://0.0.0.0:2026/v1/completions"
     
-    # data = {
-    #     "model": "/mnt/disk4t/heyuxuan/data/models/Qwen/Qwen3-4B",
-    #     "prompt": input_prompt,
-    #     "max_tokens": 10_000, # max_token = 10k
-    # }
+    data = {
+        "model": "/mnt/disk4t/heyuxuan/data/models/Qwen/Qwen3-4B",
+        "prompt": input_prompt,
+        "max_tokens": 10_000, # max_token = 10k
+    }
 
-    from openai import OpenAI
+    # from openai import OpenAI
 
-    client = OpenAI(
-        base_url='http://0.0.0.0:2026/v1',
-        api_key='EMPTY'
-    )
+    # client = OpenAI(
+    #     base_url='http://0.0.0.0:2026/v1',
+    #     api_key='EMPTY'
+    # )
     try:
-        resp = client.chat.completions.create(
-            model='qwen3-4b',
-            messages=[{"role": "user", "content": input_prompt}],
-            max_tokens=10_000,
-            temperature=0.1,
-            extra_body={"enable_thinking": False}
-        )
-        whole_result = resp.choices[0].message.content
-        # resp = requests.post(URL, json=data)
-        # whole_result = resp.json()["choices"][0]["text"]
+    #     resp = client.chat.completions.create(
+    #         model='qwen3-4b',
+    #         messages=[{"role": "user", "content": input_prompt}],
+    #         max_tokens=10_000,
+    #         temperature=0.1,
+    #         extra_body={"enable_thinking": False}
+    #     )
+    #     whole_result = resp.choices[0].message.content
+        resp = requests.post(URL, json=data)
+        whole_result = resp.json()["choices"][0]["text"]
     except Exception as e:
         whole_result = "None"
 
