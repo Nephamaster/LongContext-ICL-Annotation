@@ -252,7 +252,7 @@ def annotate_nvidia(input_prompt:str)->list[str]:
             max_tokens=10_000,
             temperature=0.1,
         )
-        whole_result = resp.choices[0].text
+        whole_result = resp.choices[0].message.content
         # resp = requests.post(URL, json=data)
         # whole_result = resp.json()["choices"][0]["text"]
     except Exception as e:
