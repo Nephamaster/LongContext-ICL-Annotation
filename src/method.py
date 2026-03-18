@@ -1,9 +1,8 @@
-
+""" Here is an example of implementation of Long-Context Data Annotation. """
 import re
 from collections import Counter
 from transformers import AutoTokenizer
 
-""" Here is an example of implementation of Long-Context Data Annotation. """
 
 def build_prompt____(task_description: str, text2annotate: str) -> str:
     """
@@ -46,6 +45,7 @@ def build_prompt____(task_description: str, text2annotate: str) -> str:
     )
     return prompt
 
+
 def build_prompt(task_description: str, text2annotate: str) -> str:
     """
     Construct a high-precision prompt for long-context data annotation (optimized for Qwen3-4B).
@@ -85,6 +85,7 @@ def build_prompt(task_description: str, text2annotate: str) -> str:
     )
     return prompt
 
+
 def build_prompt_backup(task_description:str, text2annotate:str)->str:
     """
         Construct the prompt for annotation based on the task description.
@@ -111,6 +112,7 @@ def build_prompt_backup(task_description:str, text2annotate:str)->str:
         "Please output the annotation results: "
     )
     return prompt
+
 
 def select_examples_backup(all_examples:list[dict], task_description:str, text2annotate:str)->str:
     """
@@ -145,6 +147,7 @@ def select_examples_backup(all_examples:list[dict], task_description:str, text2a
             return examples_str, i
     return examples_str
 
+
 def select_examples(all_examples: list[dict], task_description: str, text2annotate: str) -> str:
     """
         Select examples from all_examples to fit into the target context length (适配Qwen3-4B的token计算).
@@ -158,7 +161,7 @@ def select_examples(all_examples: list[dict], task_description: str, text2annota
     """
     # 初始化Qwen3-4B的tokenizer（自动下载/加载千问3-4B的分词器）
     # 若本地已下载模型，可替换为本地路径，如 "./qwen3-4b"
-    tokenizer = AutoTokenizer.from_pretrained("/share/project/wuhaiming/spaces/data_agent/OpenSeek-main/openseek/competition/LongContext-ICL-Annotation/src/Qwen3-4B", trust_remote_code=True)
+    tokenizer = AutoTokenizer.from_pretrained("/mnt/disk4t/heyuxuan/data/models/Qwen/Qwen3-4B", trust_remote_code=True)
     
     # 最大上下文长度限制（Qwen3-4B的上下文窗口默认是8k/32k，可根据实际调整）
     target_length = 8192  # 若需严格适配Qwen3-4B，建议改为8192（8k）
@@ -199,8 +202,6 @@ def select_examples(all_examples: list[dict], task_description: str, text2annota
     return examples_str
 
 
-
-
 def count_answer(text: str) -> tuple[list, dict]:
     """
     提取字符串中<label>标签内的所有内容（字符串形式），统计出现次数最多的内容
@@ -229,24 +230,37 @@ def annotate_nvidia(input_prompt:str)->list[str]:
             A prompt constructed for annotation.
             For example, ``["You are a data annotation assistant. Your task is to label ..."]``
     """
-    import requests
-    URL="http://0.0.0.0:2026/v1/completions"
+    # import requests
+    # URL="http://0.0.0.0:2026/v1/completions"
     
-    data = {
-        "model": "../Qwen3-4B",
-        "prompt": input_prompt,
-        "max_tokens": 10_000, # max_token = 10k
-    }
+    # data = {
+    #     "model": "/mnt/disk4t/heyuxuan/data/models/Qwen/Qwen3-4B",
+    #     "prompt": input_prompt,
+    #     "max_tokens": 10_000, # max_token = 10k
+    # }
 
+    from openai import OpenAI
+
+    client = OpenAI(
+        base_url='http://0.0.0.0:2026/v1',
+        api_key='EMPTY'
+    )
     try:
-        resp = requests.post(URL, json=data)
-        whole_result = resp.json()["choices"][0]["text"]
+        resp = client.chat.completions.create(
+            model='qwen3-4b',
+            messages=[{"role": "user", "content": input_prompt}],
+            max_tokens=10_000,
+            temperature=0.1,
+        )
+        whole_result = resp.choices[0].text
+        # resp = requests.post(URL, json=data)
+        # whole_result = resp.json()["choices"][0]["text"]
     except Exception as e:
         whole_result = "None"
 
-
     prediction = count_answer(whole_result)
     return prediction
+
 
 def annotate_ascend(input_prompt:str)->list[str]:
     """
