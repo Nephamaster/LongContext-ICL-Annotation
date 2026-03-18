@@ -2,9 +2,9 @@
 git clone https://github.com/FlagOpen/FlagScale.git
 cd FlagScale
 
-source ~/miniconda3/etc/profile.d/conda.sh
-conda create -n flagscale python=3.11.11 -y
-conda activate flagscale
+# source ~/miniconda3/etc/profile.d/conda.sh
+# conda create -n flagscale python=3.11.11 -y
+# conda activate flagscale
 
 pip install --upgrade setuptools
 

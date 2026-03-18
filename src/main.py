@@ -10,14 +10,14 @@ from method import annotate_nvidia as annotate # For Nvidia GPU
 # from method import annotate_ascend as annotate # For Huawei Ascend
 
 TASK_FILES = {
-    1: './data/openseek-1_closest_integers.json',
-    2: './data/openseek-2_count_nouns_verbs.json',
-    3: './data/openseek-3_collatz_conjecture.json',
-    4: './data/openseek-4_conala_concat_strings.json',
-    5: './data/openseek-5_semeval_2018_task1_tweet_sadness_detection.json',
-    6: './data/openseek-6_mnli_same_genre_classification.json',
-    7: './data/openseek-7_jeopardy_answer_generation_all.json',
-    8: './data/openseek-8_kernel_generation.json',
+    1: '../data/openseek-1_closest_integers.json',
+    2: '../data/openseek-2_count_nouns_verbs.json',
+    3: '../data/openseek-3_collatz_conjecture.json',
+    4: '../data/openseek-4_conala_concat_strings.json',
+    5: '../data/openseek-5_semeval_2018_task1_tweet_sadness_detection.json',
+    6: '../data/openseek-6_mnli_same_genre_classification.json',
+    7: '../data/openseek-7_jeopardy_answer_generation_all.json',
+    8: '../data/openseek-8_kernel_generation.json',
 }
 
 def parser_args():
@@ -30,14 +30,14 @@ def parser_args():
                         default='../outputs/',
                         help='Prefix path to save the evaluation logs.')
     parser.add_argument('--tokenizer_path', type=str,
-                        default='/share/project/wuhaiming/spaces/models/Qwen3-4B')
+                        default='/mnt/disk4t/heyuxuan/data/models/Qwen/Qwen3-4B')
     args = parser.parse_args()
     return args
 
 def evaluate(task_id:int, 
              qwen_tokenizer:AutoTokenizer,
              max_input_length:int=128_000,
-             log_path_prefix:str='./outputs/'
+             log_path_prefix:str='../outputs/'
         )->float:
     assert task_id in [i for i in range(1, 9)],\
         f"task_id should be in [1, 8], but got {task_id}."
@@ -68,7 +68,6 @@ def evaluate(task_id:int,
         test_sample_id = test_sample['id']
         test_record['test_sample_id'] = test_sample_id
         
-        
         text2annotate = test_sample['input']
         prompt = build_prompt(task_description, text2annotate)
         if examples_str is None:
@@ -85,6 +84,7 @@ def evaluate(task_id:int,
         test_record['prediction'] = prediction
         with open(output_file, 'a') as f:
             f.write(json.dumps(test_record)+'\n')
+
 
 if __name__ == '__main__':
     args = parser_args()
