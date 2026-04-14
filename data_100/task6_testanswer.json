@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "openseek-6-ffce3c1a5feb457cbd870a844891a4f4",
+        "input": "Sentence 1: oh well that's great that's great Sentence 2: It's the best thing since sliced bread. Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-5b4f333a52e348c6af9b1e0046fbf000",
+        "input": "Sentence 1: well i well i have um a son that's uh going to be eleven here pretty soon and then a daughter that's thirteen Sentence 2: People put their horses in the maze of pocket canyons to prevent them from being detected.  Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-01a01c3b2da1443cbcb6351916942092",
+        "input": "Sentence 1: At the very pinnacle of the upper ward is Crown Square, a beautiful collection of buildings housing the treasures of Scotland. Sentence 2: Crown Square is several buildings. Genre: travel.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-6bf264b9d0b34496aa3564b92860b024",
+        "input": "Sentence 1: Suddenly Jane Finn started up. Sentence 2: Jade Finn was very erratic. Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-da2f61df50e74aaa8b00a3ca0b291b55",
+        "input": "Sentence 1: Others soon joined the zinc rush. Sentence 2: You can play mah-jong at the temple's park. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-b0e455c4048849c7bd9b1b6a181ae317",
+        "input": "Sentence 1: For example, mobilizing commitment, especially from those outside the finance organization, was often one of the more difficult objectives to accomplish. Sentence 2: I'll ask someone to help me fix my tire. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-7d2b30c47eb64ce3bb579b5cab60b9e8",
+        "input": "Sentence 1: William Shawn's indispensability as an editor is amply manifest in Ross' memoir. Sentence 2: The figures are each about twelve inches tall. Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-e3d4ff639b59479982a2c9895691b1b1",
+        "input": "Sentence 1: Little blue and green lizards Sentence 2: Yeah, what newspaper do you get there, and does it have a comic section? Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-2c58fda6c5a348359c742523f23a62a6",
+        "input": "Sentence 1: \"Don't promise us much shadin' times, does it?\" Anse remarked. Sentence 2: Havana has no lively parties. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-14a7fa4e2d4740a8b5bb91e91a1f9dc0",
+        "input": "Sentence 1: on the whole i'm pleased when i have an opportunity to hear just the facts i would much prefer that they keep their analysis to themselves um since i don't necessarily agree with it or it tends to be extraordinarily trite Sentence 2: Hearing their analysis doesn't offer any benefit. Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-545e94f42e944e51869c133b9881b725",
+        "input": "Sentence 1: because i'm not you know that's one of my problems is controlling my my my irons on a par three so i have a lot of trouble hitting the greens Sentence 2: Key word search can be really helpful.  Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-88c9fe96623741858f47d519882018fa",
+        "input": "Sentence 1: well you too Sentence 2: Definitely not you. Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-197f87885f30450b9df309d9631cadd3",
+        "input": "Sentence 1: Disney would have been better off letting the negative story run. Sentence 2: Does TI pay you? Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-3ef3cb7bd03048ebb090f2f418716951",
+        "input": "Sentence 1: South of Nijar, spectacular cliffs and isolated beaches mark the hard-to-reach natural park of the Cabo de Gata. Sentence 2: The Cabo de Gata natural park is an empty, crawling plain that lies far from any cliffs.  Genre: travel.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-14c9fd6ffd984f2f9cc38d165bb40169",
+        "input": "Sentence 1: In the East, 12 th -seeded Southwest Missouri State held fifth-seeded Wisconsin to 32 points--the lowest NCAA tournament score since the inception of the shot clock--and then trounced fourth-seeded Tennessee. Sentence 2: Some faculty think McKinsey's participation in the debate brings shame to the academy Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-1406622e19a44b7dae549b552bad9b69",
+        "input": "Sentence 1: Within a few years, the carbon dioxide generated by the crowds of visitors caused a rapid deterioration in the cave walls, and the caves had to be closed to the general public. Sentence 2: The caves were closed to the public because of damage. Genre: travel.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-243d016705a943879619c9a7578ca7f8",
+        "input": "Sentence 1: Five km (three miles) of fine sand from Pornichet to Le Pouliguen stretch in a perfect half-moon, past chic sailing and beach clubs, along an esplanade of luxury hotels with a casino at the center. Sentence 2: The fine sand from Pornichet to Le Pouliguen is bordered by the ocean on one side, and empty wilderness on the other. Genre: travel.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-1830ed41a7884affbcb70674f8008247",
+        "input": "Sentence 1: Sky's the Limit guide service can arrange climbing trips of nearly any duration. Sentence 2: The clue that solved the case was that a phial of strychnine had been sold just the day before. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-dbf3145b8d8e45aba7656bee67997cf8",
+        "input": "Sentence 1: If you believe that the trust fund is an accounting fiction (the government borrowing from itself, paying itself interest, and writing checks that are government commitments irrespective of the fund), then the transaction is a total wash. Sentence 2: Kal then turned to Jon. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-9e5ddd85b5a1419a876511c8f82440db",
+        "input": "Sentence 1: The British lived along the waterfront in Victoria (now Central) and on the cooler slopes of Victoria Peak. Sentence 2: The American Labor Movement is thinking of cutting that deal.  Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-3236f308f5764781a8f8c68a2c60fedb",
+        "input": "Sentence 1: Drew would never use quirt or spur on the stud. Sentence 2: Drew would never use a whip or spur on the animal. Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-4eda94753b7b494a9ecacb8d08fea0df",
+        "input": "Sentence 1: They were two weapons of the same forge. Sentence 2: it does not function. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-49152b9529244421a6da4ab6c3bda9d9",
+        "input": "Sentence 1: The Difference That Quality  The Case of Literature Reviews. Sentence 2: Experts did not believe that federal resources were misdirected. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-e764deb2eff44ae7948ee2b311027805",
+        "input": "Sentence 1: The light increased.  Sentence 2: Some people who may not be in the Libertarian Party, and who are not willing to join, are still willing to listen. Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-c206f26c5e404705a1cd9fdb7f69c31e",
+        "input": "Sentence 1: To some GAO evaluators, the instance was an application of the case study method, because we were looking at only a few sites or because we could not generalize or because actual subjects are being used for analysis of a specific question. Sentence 2: Lawrence and John are brothers. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-bfb81af780374665981fd79c5a5a74f4",
+        "input": "Sentence 1: Developers must review every line of code, one at a time. Sentence 2: Code must be reviewed one line at a time by developers. Genre: slate.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-68f4fb3709554ea6aeab4029abdb3860",
+        "input": "Sentence 1: Inland, there are some beautiful excursions to be made into the forests of l'Ospedale and Zonza. Sentence 2: The report fails to address how DOD manages the weapon system acquisition process. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-24eb7b017e2d4c7d9a05c6585d09e1d2",
+        "input": "Sentence 1: What all the hockey-playing Jewish kids in America are not doing, during their hundreds of hours hustling to, on, and from the ice rink, is studying. Sentence 2: Unless you purchase it from someone you really trust. Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-fd24420205c34666bcf05b8684ede114",
+        "input": "Sentence 1: For admission to its two great mosques buy a ticket at the booth by the foot of the steps. Sentence 2: It will be beneficial for her to speak for herself. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-c401caeced5342efa73e4c77a7b92905",
+        "input": "Sentence 1: It will enable leaders to do a better job of marketing legal services by telling the story of what LSC grantees are contributing to their communities through the partnerships they have created and the wide range of solutions they have put in place. Sentence 2: He denies that his position is not fixed. Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-1e18e6b3f2f34490922aa1353a6ad8ab",
+        "input": "Sentence 1: This is a large and modern Orthodox Jewish cultural centre and guest-house complex which enjoys an excellent location with good views of the Old City. Sentence 2: The resort has terrible views of the parking lot. Genre: travel.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-2184da4f902a4765a9017fbef2229def",
+        "input": "Sentence 1: Many day trippers see little more than this. Sentence 2: This is very popular with tourists. Genre: travel.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-a94aed432e254455942f10a095d41eef",
+        "input": "Sentence 1: Thus developed the katakana system used as a vehicle for writing Buddhist names and concepts. Sentence 2: There was a rifle resting on your knee. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-21e0676181204ba39e6f56fdfcdc014b",
+        "input": "Sentence 1: Since the economy provides the tax base for the government, economic growth increases government revenue, which helps finance these programs as well as other federal programs and activities, and increases budget flexibility. Sentence 2: My allergies are pretty bad right now because of the trees being in full bloom. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-426533cc613448b0b404dfb84213ef28",
+        "input": "Sentence 1: What matters is how to make a bad situation better, how to widen the cracks in the Communist concrete. Sentence 2: If he thinks there's a trap, there's a chance he won't show up.  Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-4c0d288cd2a24f638988a05181c84e39",
+        "input": "Sentence 1: yeah yeah you miss yeah i don't know if you miss it or not but Sentence 2: There are no Monets in the Ornagerie. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-5eb6fedf598946d1b1bf172676080d5f",
+        "input": "Sentence 1: so it's um it was it was a fun movie Sentence 2: The movie was good! Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-d4fd4c51f1994c98970b836949dac05e",
+        "input": "Sentence 1: How do we hold the globe in the center of everything?\"  Bork shrugged. Sentence 2: Alabama had the same liquor laws as Texas. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-1c231eb769e647d5a3511f983766a14b",
+        "input": "Sentence 1: Then the cross-examination began.  Sentence 2: She did not propose a resolution to Mr. Whittington. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-30ca694a19794bf79e1beda752e08591",
+        "input": "Sentence 1: um the one the the most valueless girl doesn't  but she's married now i i'm not quite sure why  i i think he said that he'd give her a big ring and Sentence 2: I don't think she's even interested in getting married anymore Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-b4faf3b6796046928b4165258a4f929c",
+        "input": "Sentence 1: Life aboard ship is tough Sentence 2: Life is hard aboard a ship. Genre: slate.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-140a666185d64f9d9307d7ec9df0b203",
+        "input": "Sentence 1: Woven cotton and linen are also a good buy. Sentence 2: Pollock never drank any alcohol in his life. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-3cce6289d7494768a9e1508e868c4f27",
+        "input": "Sentence 1: yeah Smith came on pretty good Wright is is still in the in the potential category Sentence 2: The port is one of the busiest in the country thanks to their amazing wine export. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-84f43b144c374768b7b4e6679ab5724f",
+        "input": "Sentence 1: Now known as the Petrified Forest, a number of these trees can be seen, some with every growth ring visible. Sentence 2: Now known as the Diamond Quarry, a number of those rocks can be seen, some with every decade square visible. Genre: travel.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-0f00f5598eb847cb95307c30fbfccbd7",
+        "input": "Sentence 1: Zelon faced one of the greatest challenges of her legal career, she said, when her appointment to the bench forced her to switch gears from civil litigation to criminal law. Sentence 2: A common thing about successful organizations is that their missions are clear and communicated to their employees. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-2f876855f7464c658fcf10162691ad5a",
+        "input": "Sentence 1: When Israel began constructing apartment buildings in Arab East Jerusalem last March, PA security stopped relaying intelligence about the operations of Hamas' terrorist wing. Sentence 2: A tomb representing King Richard is located behind the chapel, but his actual remains are buried elsewhere. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-7aa776ca0e4144c680b3672f308d7eb6",
+        "input": "Sentence 1: You got yourself out of a tight place very well, he said gravely. Sentence 2: she said, \"you lied and tricked me.\" Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-a6bd7fccfbf44094a4d893319075beff",
+        "input": "Sentence 1: well oh i agree Sentence 2: Your word is fine here, no need for contracts of any kind. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-a562d1b760544a81a693d35ba4b6616e",
+        "input": "Sentence 1: well we uh my husband always usually always pays with cash but i never seem to have cash Sentence 2: We laughed and talked about our twenties.  Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-c3a80244f4a0438dbb7c4e551e957ed0",
+        "input": "Sentence 1: There was a lift, but Tuppence chose to walk up. Sentence 2: If you arrive in the Lake District without a reservation, you're better off leaving because the British Tourist Authority has no information that could be of use to help you in the area.  Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-9594601af8e047cbabc21b4f08126ea3",
+        "input": "Sentence 1: Even if tax incentives do not increase personal saving much in the short term, they may encourage individual households to earmark resources specifically for retirement. Sentence 2: The Museum of Modern Art is one of the most visited art galleries for day or weekend trips. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-cd89907487e546a198360c59b79084eb",
+        "input": "Sentence 1: The Michigan Bar Association guidelines encouraged but never mandated 30 hours a year per lawyer. Sentence 2: 30 hours a year per lawyer is a substantial number for most lawyers. Genre: government.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-27fb8808e4bc42bc80dcaf99f9898b20",
+        "input": "Sentence 1: Our study identified many techniques and approaches that organizations have used and found effective in reducing their levels of improper payments that could be used by federal agencies to help reduce improper payments in their programs. Sentence 2: The dynamism of the model is what has made it the best of its class. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-d160dff5774e49a480c89efb23e8ec32",
+        "input": "Sentence 1: The site that will facilitate this project is www.legalmeetings.org. Sentence 2: Legalmeetings.org is a helpful site  Genre: government.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-a082a1955bb4425cae3a6b81467c1a09",
+        "input": "Sentence 1: Ben worked in a diner and was tired of clunky sugar dispensers and so converted an existing piece of machinery, a tea bagger, creating the first sugar packet. Sentence 2:  Ben made a sugar packet using a machine called a tea bagger.  Genre: slate.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-745d296b928b43fab6893c98b227dbae",
+        "input": "Sentence 1: Thus, only one price of electricity is determined for each demand segment for the entire set of sample plants. Sentence 2: The freezer was a balmy 80 degrees. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-e3c433b4cd24404b90f43b6ade82ce36",
+        "input": "Sentence 1: oh this this comes with the blade on it you mean uh-huh Sentence 2: The blade is about a foot long and spins at thirty revolutions per minute. Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-a2bc4f9e72b04b698d1ac9c4da3902a6",
+        "input": "Sentence 1: i uh i don't think anyone would miss him either Sentence 2: People would be worried if he was gone.  Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-371d288e1b4b4172b115f350ba91701f",
+        "input": "Sentence 1: the IBM had one last year now TI don't have one and Rockwell i mean yeah Rockwell they don't have one Rockwell whatever it is Sentence 2: IBM had one last year, same as TI. Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-e7a0d51278eb455b81b4de14f34a1fa2",
+        "input": "Sentence 1: and they got pretty scenery in Ireland yeah it's nice Sentence 2: Ireland has pretty views. Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-e3dc2bda954d4cb4a05617c8beb17032",
+        "input": "Sentence 1: I support the cornerstone concept of these laws, known as fair information practices. Sentence 2: While it is not on the beachfront, a view of the cruise port will have you thinking you're close to the sand. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-bdd207a97e4648a69dd603f46407bb77",
+        "input": "Sentence 1: what what are you working on Sentence 2: These volumes can now be searched using title, theme, and date. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-b069ac77f9114ccaa14907f51e559100",
+        "input": "Sentence 1: One is prospective and intended to help those who plan evaluation to know the minimum features of the various case study applications. Sentence 2: The intention is to not help those who plan evaluation to know the minimum features of the various case study applications. Genre: government.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-6e82fab9e5db43788d285ab4fdacbfff",
+        "input": "Sentence 1: Perhaps I never had. Sentence 2: It's either very dry or very moist and is doing damage to our foundation, which we will fix next year. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-8e6e38dfd1aa42d5882d53001da88f19",
+        "input": "Sentence 1: The two men looked distracted but they fought strong and fast. Sentence 2: Two people were fighting quickly.  Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-d828473dd93741a59963687ace2b6fb4",
+        "input": "Sentence 1: if that if so Sentence 2: So with WPA? Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-5cb8d60b21494a45832b408963834f5c",
+        "input": "Sentence 1: Anyone may now own an unlimited number of radio stations, subject only to caps on local concentration. Sentence 2: David Cronenberg's has a virtual reality movie that features Jennifer Jason Leigh. Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-d511bad02b0642798477c2962b52d784",
+        "input": "Sentence 1: High-quality pottery and glassware are also produced here. Sentence 2: Japan's constant earthquakes and unsuitable geography has created a sense of impermanence among the citizens. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-6d6360de086849e88c0fb94d5db9cd22",
+        "input": "Sentence 1: but that's what's got our system bogged down so bad now they've appealed everything to where if they've got one typographical error where in their in one line instead of spelling they've got one word misspelled i mean it's a very minor clerical error they couldn't tell they they'll appeal the hell out of that and that just throws another wrench and it takes two years to work an appeal Sentence 2: I would watch cable, but we don't have it at my dorm. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-c9e497c958584711920bc9228ff8a087",
+        "input": "Sentence 1: How characteristically American, wrote Lionel Trilling of Sexual Sentence 2: Lionel Trilling wrote that it was typical for Americans to get married around the age of 20.  Genre: slate.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-d0e2bc785fe7476997843f28d295e6db",
+        "input": "Sentence 1: outside of Boston Sentence 2: The floors are finished with polyurethane, which isn't hard to get off. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-16245d732dba4c279b579f8d322b9b52",
+        "input": "Sentence 1: He wished to be arrested.  Sentence 2: Corporate security cannot be attained and is just a theoretical scenario. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-56d2f3d1fab04693926bae6d1b8ace50",
+        "input": "Sentence 1:  This is a traditional Jewish craft, and the possibilities of what you can buy are almost endless. Sentence 2: They were alright but you know, he was in school all day.  Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-eb51959b95ab44babd72f30d65a0f198",
+        "input": "Sentence 1: As he began walking with the girl toward a huge tent that should have belonged to a circus, he could see other discrepancies. Sentence 2: That's twenty months. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-58005f1a1fdd45a1a31a5fc94f58b01c",
+        "input": "Sentence 1: The 2001 reports have enabled the LSC Results Group to identify adjustments for improving reliability of the numerical data being provided by grantees. Sentence 2: Medieval penitents traced its path through the sky with sticks. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-87359cb1d47b4ae9a4ae041e1c350d9a",
+        "input": "Sentence 1: learn your colors learn your alphabet learn all your your little terms here and and learn how to uh begin learning some of the reading and by the second or third grade uh the little school system that we're in they have uh really a lot of computers uh it's a very wealthy district as as all that fighting's going on over who gets the money and the like but they have Sentence 2: Not suffering. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-1524ebdec1a14f6b99f7a5c0de37a4a2",
+        "input": "Sentence 1: But that's probably not realistic. Sentence 2: We can try but it's still probably not realistic. Genre: slate.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-eab36e2faf104879aca1dfd65e634211",
+        "input": "Sentence 1: Many evaluation questions do not require a high degree of generalizability. Sentence 2: As a result, this study is more accurate through its combined estimate methods. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-386c8c15745641f6ae0dcd647c32337d",
+        "input": "Sentence 1: Every hour on the hour from 11:00 a.m. to 10:00 p.m. it revolves to music, the water dances, and it emits a jet of flame. Sentence 2: Bishop Everard of Norwich spent a very large sum of money on the construction of the abbey church.  Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-2bd7747f0f97407882e6f92905aa1a33",
+        "input": "Sentence 1: After that everything was plain sailing. Sentence 2: Ca Na Costa is five miles east of La Sabina. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-5b2ddca2b5c04f67abf8ce4d886b9afd",
+        "input": "Sentence 1: Thus, the diversion of bill-paying by mail to other methods of bill-paying is having more impact on single-piece than presort First-Class Mail. Sentence 2: You need to rinse it out with the garden hose. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-8a24388869124f44936db3a8fe1e8711",
+        "input": "Sentence 1: oh yeah she she was wanting Sentence 2: It must be frustrating, but the pay is worth it.  Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-a84b35c1d9394ea1ae852d696448ba21",
+        "input": "Sentence 1: The Trustees' longterm assumption reflects the average labor productivity growth over the Sentence 2: They didn't fight at all. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-0ca2e57445a3450b9a8c64ba1bf3384f",
+        "input": "Sentence 1: lawyers perform a necessary service to society by increasing access Sentence 2: The center for visitors fail to provide any specific information on the historical sites. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-d38f00373b104c2fa4f235ac902c118a",
+        "input": "Sentence 1: No secret hobby? she asked.  Sentence 2: Gazpacho is a soup that has no vegetables. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-58754659ba2d4ca7beee5a30d1f17e50",
+        "input": "Sentence 1: Their folkcrafts are authentic and much less commercialized than in most other parts of Japan. Sentence 2: From the National Assembly, you can walk to the Prime Minister's residence. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-cc474d7878684b5aa6e1aac4b240a05d",
+        "input": "Sentence 1: But in these stories, especially the later ones, he seems to have been unable to get beyond his own commonplace fantasies about prostitutes and 1960s miniskirts. Sentence 2: We have been asked to investigate variation in missing returns. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-2d0072bef082435eb4f5fe757580102e",
+        "input": "Sentence 1: The movie isn't clear on where the secret report that kicked off Bergman's interest in tobacco came from, or who in the FDA thought it was a good idea to turn him onto Wigand. Sentence 2: Our weather is pretty much the same as Ireland's. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-4cfdd0541bff4787aa9a097b8a741b7d",
+        "input": "Sentence 1: uh oh yeah it's not just yeah it's not just TI they they're doing the same thing up here and not just uh in yesterday's newspaper they said um IBM's going through they're going to lay off like fourteen thousand world wide Sentence 2: I don't see any issues developing as a result of that. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-ab53d039ca614d31a4d057676d442c4b",
+        "input": "Sentence 1: There were some battered old pictures on the walls, representing scenes from Faust.\" Jane's two listeners gave a simultaneous \"Ah!\" The girl nodded. Sentence 2: Some aged photos and brilliant tapestries hung on the walls, depicting settings from Faust. Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-c310cccf2a274289a591f631188713c2",
+        "input": "Sentence 1: Then every share of Daimler-Benz stock sold between 1950 and 1980 sells at a discount reflecting that expectation. Sentence 2: No one would molest a little girl like that. Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-319cd3c69a3d42b099795d74c54fc888",
+        "input": "Sentence 1: But for the last several years it has often done that job poorly, according to state and federal officials. Sentence 2: It had done a bad job at helping the poor over the past. Genre: government.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-bfa502e3dd6f48abbfe3592f65267cf7",
+        "input": "Sentence 1: This is an assumption about demand. Sentence 2: There is currently an assumption based on the demand of the work needed. Genre: slate.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-d6da6cbe822343878bfc8f484392743d",
+        "input": "Sentence 1: The National Bureau of Economic Research estimates that stocks outpace Treasury securities by a range of 3 percent to 13 percent a year. Sentence 2: Stocks perform better then Treasury securities. Genre: slate.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-ec5d499d1f9f45b79c9881a42275007d",
+        "input": "Sentence 1: The introductory essay argues that war has been the central influence and organizing principle of the 20 th century. Sentence 2: We saw Lady in Red one night, which was a great movie. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-ec6512c0b21e4e0abf406a9bc6906464",
+        "input": "Sentence 1: The L.A. segment of the Pacific Coast Bicentennial Bike Route, which runs for 1,000 miles (1,610 km) from Oregon to Mexico, is a particularly popular trail. Sentence 2: The place is called Saint-Bertrand-de-Comminges. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-369160de23704a7aa391d06087d29693",
+        "input": "Sentence 1: Weeds grow like house afire.  Sentence 2: The weeds are irritating.  Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-0d1fd2876e4e4f62b5267d6de8daed37",
+        "input": "Sentence 1: Glendalough's three nature trails take less than an hour's relaxed walking and are well worth doing. Sentence 2: The three nature trails don't take very long and are worth the time. Genre: travel.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-6f9bbaaf341b43b6a9544fdf7fbc6a85",
+        "input": "Sentence 1: , the historical cost to build the Washington Monument). Sentence 2: The cost to build the Washington Monument in history. Genre: government.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-ef372b179bf3451f9cb5e3282511172e",
+        "input": "Sentence 1: What? The cry of surprise was universal.  Sentence 2: There were no universal cries of surprise as a result. Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-081bd6910aee475795b79099c341fb39",
+        "input": "Sentence 1: Additionally, the FCC did not adopt safe harbor rules at this time, as suggested by some commenters, to avoid interference. Sentence 2: My family didn't teach me anything. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-6f18e1c9698e43f4ac2b571659b89846",
+        "input": "Sentence 1: The monumental baths, separate Latin and Greek libraries, Greek theater, temples, and pavilions together make up the home of a man who drew no distinction between the pleasures of mind and body. Sentence 2: The home includes baths, libraries of different languages, and a Greek theater. Genre: travel.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-781d1d1a009043b1a37253c001f274a9",
+        "input": "Sentence 1: Then one of the nurses was a crook and listened at the door. Sentence 2: Harrer has no idea that she's pregnant in the movie. Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-f09022e0da1a4e599ffaaf7e6dc21188",
+        "input": "Sentence 1: that's what i need Sentence 2: I have no idea who's in charge of the firm these days.  Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-30c4de9e848a4276ba3392b8760cf5e0",
+        "input": "Sentence 1: OBLIGATED BALANCES -The net amount of obligations in a given account for which payment has not yet been made. Sentence 2: Julius passed away uneventfully that Wednesday night.  Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-859f7076b6384e5584a6615c0ed34491",
+        "input": "Sentence 1: The case against the president should be strong enough to justify some members of his own party voting against him. Sentence 2: You can't see the the roof of daibutsuden, its too small.  Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-d717ec0f8a7f4f5da992e665846f54fe",
+        "input": "Sentence 1: In winter the Salinas de la Mata, just south of Guardamar, often (but not always) attracts thousands of migratory flamingos, a few of which sometimes stay to breed. Sentence 2: Something could be made with that. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-9d2573eaf4f54903a393972dd163daea",
+        "input": "Sentence 1: Cybercitizens will be hard-wired, and entertainment as we know it will be in the form of IPOs. Sentence 2: She asked if the man had shot her father. Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-2e0eddec2c7f46d29b9a18f1c9397dce",
+        "input": "Sentence 1: yeah it's kind of it follows his his travels throughout the world Sentence 2: It follows a persons world journey. Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-2ab40c911ca34a81aec54e0f85926939",
+        "input": "Sentence 1: But yuppies--or at least the suburbanized offspring of Slats Grobnik--were increasingly his audience and his newsroom colleagues. Sentence 2: \"I am trying to save something so I can start going to school full-time instead of part-time.\" Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-a7e0fb44b74a4198859cb230028488a3",
+        "input": "Sentence 1: The agencies developed strategies to address These barriers, such as maintaining open communication and reassigning and hiring personnel. Sentence 2: lawyer at Legal Services Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-b9b036e1b34043f98ed7c293230afd9f",
+        "input": "Sentence 1: there is no single reality on which inquiry may converge, but rather there are multiple realities that are socially constructed, and that, when known more fully, tend to produce diverging reality. Sentence 2: Multiple realities produce diverging reality. Genre: government.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-ee589044a81d4b0f8937549b9601a8a6",
+        "input": "Sentence 1: does she have to pay to have it refinanced Sentence 2: Does the refinancing require any money from her? Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-6df8b9cee7ea422789391d9f243a923c",
+        "input": "Sentence 1: Nicole Kidman, describing her husband's ... Sentence 2: The President has not established working groups since his inauguration. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-524f342d286b4bd79f3a6f898d55afd3",
+        "input": "Sentence 1: Extramarital affairs Sentence 2: Two skyscrapers are in the plaza, but will be torn down. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-2f928139d2c940059f3ac84f53358652",
+        "input": "Sentence 1: Now he put down the phone and looked at her--and the pizza--with undisguised hunger. Sentence 2: I think there will be many improvements that will result. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-2a6e2479aa8c43b1901edd1fe07fe357",
+        "input": "Sentence 1: Dove Cottage was their first home. Sentence 2: Dove Cottage served as their third home.  Genre: travel.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-b99cde00e5364dcf9cd8f1ec0a41ad30",
+        "input": "Sentence 1: At one point, he throws cash to people in a local soup line. Sentence 2: People waiting to be served soup stand in a line. Genre: slate.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-a4308b83e7ca47668eb9baa712d3db6a",
+        "input": "Sentence 1: We will see about it. Sentence 2: Semantics was not his favorite course in college.  Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-17f2c431a58447b28e45c5824ce8c7db",
+        "input": "Sentence 1: In [a constitutional] admissions program, race or ethnic background may be deemed a plus in a particular applicant file, yet it does not insulate the individual from comparison with all other candidates for the available seats. Sentence 2: There are no artifacts like statues, mosaics, coins or tools in the Musee de la Civilisation Gallo-Romaine. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-444ee20e07fa4c819d0eb63c882f560a",
+        "input": "Sentence 1: Salt-stone pillars held up many of the tunnels and a single barrel of water could collapse a pillar and break down the tunnel. Sentence 2: Lawsuits were never filed because there was no fire. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-09a7b2281a154e5ca29eb8935b22164c",
+        "input": "Sentence 1: i don't think they're going to challenge for the lead in the east Sentence 2: They left Arlington. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-5494ef2047d54f99b7d37192bb1de8a6",
+        "input": "Sentence 1: I think the gifted young detectives must get to work, study the entrances and exits, and tap the bumps on their foreheads until the solution of the mystery dawns on them. Sentence 2: The young detectives should go back to their office and stay far away, not solving the mystery. Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-aad5e8329385406ab605e2ef2498d598",
+        "input": "Sentence 1: 'Uh oh.' I tapped White on the shoulder. Sentence 2: I ignored White. Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-b873653f6dd44a789897286cb0a3c041",
+        "input": "Sentence 1: 'The Results Project' will enable LSC to describe and quantify that work. Sentence 2: These people have wonderful jobs that I envy. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-0c0193faef1a4c19ace3f386c07b7525",
+        "input": "Sentence 1: um so we didn't have that problem um Sentence 2: That wasn't a problem we have. Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-3d81ce5b56e74ad5bf2b600c245f5648",
+        "input": "Sentence 1: uh nothing that that's particularly horrible and i think most of the work word processing i do since it's somewhat of a personal nature i've probably don't have a sense of vulnerability in this in in the even that i were to send to to send a a misspelled word out the way one might have at the office place Sentence 2: Do you think it's okay to use capital punishment in the household when deprived of other regulations? Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-32f81b225bcb4da8a8802bb3892f60c3",
+        "input": "Sentence 1: It was rather a curious document.  Sentence 2: There was something strange about the document. Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-6d6fa69bf522475e99a1e29155210ef2",
+        "input": "Sentence 1: Wolfe mocks the obsession with money and status, yet at the same time, his cleverest moments come from indulging in, not just exposing, invidious distinctions and superficial judgments. Sentence 2: Rapid growth occurs on the brick. Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-96d58605ea0e45dd9a079e7165312579",
+        "input": "Sentence 1: Auditors are expected to comply with these requirements if they apply to the type of work being performed. Sentence 2: Julius was full or courage when he asked if he'd ever find his socks again.  Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-d2b655cf009e4a358d757c3172089f6e",
+        "input": "Sentence 1: This, we trust, will effectually silence the sensational rumours which still persist.  Sentence 2: yes, neither do we Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-945e4dd531274c8882b93b26a679bb63",
+        "input": "Sentence 1: Alcohol interventions in trauma  current practice and future directions. Sentence 2: Current practice and future directions for preventing snow. Genre: government.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-762df12d5e8f4cceab060fa8546c17bc",
+        "input": "Sentence 1: Your mother keeps well? I asked.  Sentence 2: The hills are the best source of exercise in the area. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-acadd552cd624e76bcca62c36e83617a",
+        "input": "Sentence 1: It holds regular exhibits and displays by academy members. Sentence 2: He lost all these things in the same day. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-93768ec32d0f46d898404db2a5a46ac3",
+        "input": "Sentence 1: yeah how old oh yeah Sentence 2: You don't knit every day. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-ba0ea4c199c248ac805c9a1e7eba6c17",
+        "input": "Sentence 1: you could afford to pay more taxes Sentence 2: I hope we can talk again in the future. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-53a03850833c43baab2c9454109d403c",
+        "input": "Sentence 1: We're in a bad spot if she comes around us. Sentence 2: With all the things going one and with the children, it would be awesome to work at home. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-ec4acc16921c4acab8a300f6643eef4a",
+        "input": "Sentence 1: No we're not, said Thorn. Sentence 2: I would like to ask you ten questions. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-3c7b6558f50245008360ec8fc42e1dd6",
+        "input": "Sentence 1: For more information about most of these hotels, particularly with regard to their casinos and attractions, look in Where To Go starting on page 26. Sentence 2: The warm weather is what I am used to, and I quite like it. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-35800d48a6ec4473a89f3e2c7b5eab3b",
+        "input": "Sentence 1: Susan, tell Thorn and Vrenna to move back. Sentence 2: Susan, please tell Vrenna and Thorn to back up Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-6fe083e535e946d0a8bdca08db0b9034",
+        "input": "Sentence 1: Many will feel that the case for subsidizing the nonproduction of doctors is weak when law schools are still cranking out lawyers by the caseload. Sentence 2: Half the city is looking for the missing prisoner.  Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-c76551a2f231470aaf5d79e0d6fe7a46",
+        "input": "Sentence 1: Ca'daan saw two whipmasters fleeing on horseback. Sentence 2: You should not be concerned. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-e6afe41b9fca4966ae05daea3d09a932",
+        "input": "Sentence 1: yeah yeah yeah right right i know but i'll tell you what um we're really strict with our kids about television and one night a couple of weeks ago Sentence 2: We do not let our kids watch TV whenever they want to. Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-081861327fd54b1ba9cde295873ed10f",
+        "input": "Sentence 1: and i expected it to be a lot of trouble but it wasn't that bad i taught remedial reading kids Sentence 2: I taught children how to read. Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-77cf9210d0e34833bddf9b2e67d0d15a",
+        "input": "Sentence 1: It took both tables almost three sessions of medium sized cheese-and-drugs boards to collect themselves after hearing this. Sentence 2: The tables could not collect themselves even after eight full sessions of boards. Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-51349cdefe134ab382b1b09b51ce0c67",
+        "input": "Sentence 1: um i don't know it's so old Sentence 2: I've noticed that less and less women are opening businesses these days.  Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-ccfb9d9b68ff488290147f515fe335c5",
+        "input": "Sentence 1: It is wrong on the law because there is utterly no precedent for the novel and facially implausible proposition that the First Amendment has anything to do with government funding that- though it does not actually abridge anyone's speech- distorts an existing medium of expression. Sentence 2: Martinique and Guadeloupe have never been considered for regions before this point. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-392d3741b2d04f45bc2f7d279036ad01",
+        "input": "Sentence 1: Wine?\"He gestured to a tray with waiting glasses. Sentence 2: Boat cruises leaving Peshiera cost about 40 dollars, while cruises departing from Sirmione and Desenzano cost over twice that much. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-7245a7997e294276a95cd1881402fa6c",
+        "input": "Sentence 1: In a press release referring to the program, IRS Commissioner Charles O. Rossotti stated that the clinics mesh with the IRS mission statement of providing America's taxpayers top quality service by helping them understand and meet their tax responsibilities by applying the tax law with integrity and fairness to all. Sentence 2: No, I think it is fair and would not affect the outcome. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-23988a6aa5ec424792fe8c1c43b5b9dc",
+        "input": "Sentence 1: The Social Security Administration also offers an online retirement planner with calculators to help workers understand how much they can expect from Social Security under different retirement scenarios. Sentence 2: Morris decided he had no questions and sat back down. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-023e21bce214416da48ec5ee0119ecbb",
+        "input": "Sentence 1: i was real disappointed in that well i'll tell you another good book do you like scary  things Sentence 2: I hated speaking to you, because you are boring. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-4c3e66789d2c4c8390f76754d193b353",
+        "input": "Sentence 1: Where V = volume in billions of pieces, b = basic (referring to the non-workshared category of First-Class Mail), ws = workshare, P = price, and D = discount. Sentence 2: The formula  to calculate total mail delivered is: V=B+WS/P-D Genre: government.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-0bb4c1b81ba944ce9c3fd72c06893d5d",
+        "input": "Sentence 1: and i didn't think that's you don't do that Sentence 2: Don't be someone you're not.  Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-76a1092285af4fd5b567f51e175c79be",
+        "input": "Sentence 1: See accompanying notes to the financial statements for the condition of stewardship land. Sentence 2: I will see if I can do that.  Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-50813c1179b44a4ba25a3887f8d2d104",
+        "input": "Sentence 1: The funds are part of about $2. Sentence 2: My friends and I played drums in the band. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-292e6392f1994b07a3d8689c85cc081d",
+        "input": "Sentence 1: He walked about my apartment like the king of a very small castle. Sentence 2: More aid from the government is needed to stabilize the situation. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-b465bf9ebd1a472b97802c5349e2791b",
+        "input": "Sentence 1: Trent Lott recently called the agency intrusive, abusive, and out of control. Sentence 2: Trent Lott applauded the agency recently. Genre: slate.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-307ccae6f88a4411b782fb759b98878d",
+        "input": "Sentence 1: It builds market cap as if by magic. Sentence 2: All aliens can get legal help without trouble. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-139174c2898a495e968ccf252d077a8e",
+        "input": "Sentence 1: Adrin's own sword moved just as fast, parrying and dodging every attack. Sentence 2: Adrin's sword moved slowly as he was stabbed over and over again. Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-72d0efd91ef9468ab91fcf7b1920a9bb",
+        "input": "Sentence 1: The Raptors hunt in packs; stalking via shadows. Sentence 2: Agencies that use those systems should match performance expectations to organizational goals. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-bcf9b07d74374a0eb3ff5650ef77c80f",
+        "input": "Sentence 1: I have since learned the way of peace but I will always hunger for war. Sentence 2: It's always good to have more options in my opinion. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-acb9cf42b9b8488caa2f41e2b16d7b1d",
+        "input": "Sentence 1: For the latter, bargains can be found at Blarney Woolen Mills (Nassau Street) and Dublin Woolen Mills (Lower Ormond Quay). Sentence 2: He grew up mucking horse stalls and feeding the livestock. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-d962920f5a8f41a4b2a481742b0aee7f",
+        "input": "Sentence 1: (The girl is so much like a fourth-rate porn actress that the audience assumes she was hired to help the boy become a man--but the punch line never comes.) Sentence 2: The woman shared a lot of physical similarities to a popular adult film star. Genre: slate.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-49e70821e2fd45d1943b69f55a677e11",
+        "input": "Sentence 1: no  and so and and my boss has has gone for about like three times i think and i told him he's obviously in a high risk group Sentence 2: Welfare benefits went down in the 1960s due to wedlock births. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-25b5147069c74f979995437ec221306a",
+        "input": "Sentence 1: You lost three of the last four jury trials. Sentence 2: Oprah had a lot of angry people after her in Amarillo.  Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-76134b3601844b5aa64ab646f74fc3a7",
+        "input": "Sentence 1: National saving together with borrowing from abroad provides the resources for investment that can boost productivity and lead to higher economic growth and future living standards (see figure 3.1). Sentence 2: More resources for investment, which can come from national saving and borrowing from other nations, can boost productivity and lead to higher economic growth and better living standards in the future. Genre: government.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-99a367326b0f40bda661801d3118e299",
+        "input": "Sentence 1: i see well first one's always a bear we're having a an architect friend of mine design a house for us and uh that can basically be be be put on any lot in any state any country you know so that's kind of the Sentence 2: I wish I had a friend in architecture.  Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-53320050dbf64973af1c630a8003218d",
+        "input": "Sentence 1: read my lips and what happened they turned around and double crossed us Sentence 2: There are no wines that are adequate that are also not pretentious. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-4b65cdda67084813a16ace6bad2d78c1",
+        "input": "Sentence 1: Kashmir was divided between both India and Pakistan, pending a plebiscite which has never been held. Sentence 2: We hardly work with those ones. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-8fd796e432a24ac7a113cf53bf9d7bdb",
+        "input": "Sentence 1: okay well uh how do you feel about uh drug testing Sentence 2: originally from Louisville in Kentucky Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-7929d8d5786b49acaea131f5f8e01560",
+        "input": "Sentence 1: From here, the long, narrow arcade called Nakamise-dori is lined with shops selling toasted rice crackers, spices in gourd-shaped wooden bottles, dolls, toys, fans, children's kimono, and ornaments and souvenirs of all sorts. Sentence 2: There are a number of different ways cash is identified. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-d97341126d83487bbe98da1eb53172f2",
+        "input": "Sentence 1: The rule, promulgated by an independent regulatory agency, is not subject to title II of the act. Sentence 2: The rule is always subject to Title II of the Act, regardless of the agency behind it. Genre: government.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-297cead9d8e741749963a8b4730f802c",
+        "input": "Sentence 1: White knew everything. Sentence 2: White had knowledge of many things, and I thought he was an absolute genius, but many people saw him as a fraud. Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-e756462f4c8e45f3afb349962ab86c70",
+        "input": "Sentence 1: to those children when they are together and and so it seems it seems for them that it works out all right so i don't know i i don't think i ever would have had what it would take to work full time and raise a family i Sentence 2: The theory is about space and time . Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-6574f7f0fb264915a9565cc622ba6876",
+        "input": "Sentence 1: I clicked the link, which led to a page of more links to lots of information on BIOS, but a half-hour search yielded no information on booting from the CD-ROM drive. Sentence 2: The Clean Air Act is amended on a regular basis. Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-aa8a01e046244fdca6ecfe98b5d8d330",
+        "input": "Sentence 1: If this process continued, it might lead to a situation where all of the collection, sorting, and transporting of the mail is privatized. Sentence 2: The process could never lead to the privatization of mail transportation. Genre: government.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-e3a518c4926d4bd78e2a5ee1e214afb6",
+        "input": "Sentence 1: And, in theory, feeding a write-off reserve back into operating income shouldn't even be possible. Sentence 2: After the massacre, the survivors began to flee the are en masse. Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-1a8b56696383448685cf4cbb063c0e4d",
+        "input": "Sentence 1: But where is he? Sentence 2: That doesn't work at all. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-fcc444003a084c93ae43d5f4c5abea9f",
+        "input": "Sentence 1: yeah right that your supposed to appreciate them well my my dog when i came home uh when i come home in evenings she my dog greets me at the door i don't know that a cat would do that uh Sentence 2: My dog greets me when I get home. Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-c4e88e2f49ee4408b7f035777161aacb",
+        "input": "Sentence 1: yes when i first started teaching i remember i went up to my job and i said okay i want to see a curriculum guide you know so i'll know what i'm suppose to teach and they go we don't have one of we don't even know where one is Sentence 2: I was thankful during my first teaching gig they had already developed their curriculum.  Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-1e4469f6556d4dcfb18f590093aa900a",
+        "input": "Sentence 1: well i really don't think anybody anybody can beat UNLV they they might beat themselves but i don't know they're at such a high level of intensity Sentence 2: UNLV is easily beatable.  Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-54617228c7324e5990eb893092987d3e",
+        "input": "Sentence 1: Video poker has become increasingly popular, so much so that there's hardly a bar, grocery store, or laundromat in Las Vegas that doesn't have at least two or three machines. Sentence 2: A view gets old quickly. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-b1a09aa371854c588b80ea57b5caa4dd",
+        "input": "Sentence 1: In 1966 the Venetian authorities returned the skull of St. Titus to the Cretan people in a gold reliquary, along with fine paintings depicting scenes of the saint's life. Sentence 2: In 1966 the adorned skull of St.Titus was returned to the Cretan People. The Venitian government also gave an apology for not returning them sooner. Genre: travel.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-6e1f7adcb5fd4754b30a0a54deb5490a",
+        "input": "Sentence 1: The second objection to Dalmatian farming is visceral. Sentence 2: Yes, that's a long thing. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-6baa82840dd94a1e85157db53646f1aa",
+        "input": "Sentence 1: oh well my husband sometimes you know he'll receive a call and he's at work Sentence 2: Every now and then my husband receives a call while he is at work.   Genre: telephone.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-80eb4d6f689e406696872cd2288ad76f",
+        "input": "Sentence 1: You see, continued Tuppence. Sentence 2: Federal spending is declining. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-2ae168e794304b44802ce6b318cd69bf",
+        "input": "Sentence 1: 18 See the description of this proceeding in the Appendix. Sentence 2: The appendix is missing a description of the proceeding. Genre: government.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-393622b5b060497fa5b9732bdd2af983",
+        "input": "Sentence 1: Johnny, she's been a-pinin' fer you ever sence you enlisted, an' last night durin' the fight she mighty nigh went distracted. Sentence 2: You should find out as much as you can before picking a college. Genre: slate.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-6f971b8c1c0d4ff28bfb571bfee7f690",
+        "input": "Sentence 1: Museums that will appeal to children are the Fry Model Railway Museum at Malahide Castle Estate (see page 75), while the National Wax Museum (Granby Row, Dublin 1; Tel. 872 6340) has a special  Children's World  tableau depicting well-known fairy-tale characters and a Hall of the Megastars devoted to pop musicians. Sentence 2: If you have children, you may wish to visit Malahide Castle Estate or the National Wax Museum. Genre: travel.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-d5145b62f18e4b9084a4454f1b9e9ef7",
+        "input": "Sentence 1: A while ago we changed the internet-phone PBX system to comply with WebTel 4.0.5, because, you know, no sane person would stay with the ancient Web 3.0.' Sentence 2: We knew no one wanted the Web 3.0 system. Genre: fiction.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-1d982e9a9b6a42568f97c4e947f7f7c6",
+        "input": "Sentence 1: But it is the web of easy evasions that is the essence of Morrisism, both in his politico past and in his Augustinian present. Sentence 2: Hunt was not born yet, when the war happened. Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-5c24417f9f1d4d90aed01af8f54f4c25",
+        "input": "Sentence 1: More celebrity writers praise President Clinton and bash Kenneth Starr. Sentence 2: Celebrities don't like Starr as much as Clinton. Genre: slate.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-b69fc651b82d42bcb212da42d500784e",
+        "input": "Sentence 1: A minimum of three days is necessary to see a good portion of the island; a week allows a visitor to do it justice and take the time to enjoy its scenic outdoors at a relaxed pace. Sentence 2: The models took over a year to complete.  Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-8e2bce143708458f809e855bc49d495d",
+        "input": "Sentence 1: The entrance to the mosque is through a door at the east wall above the temple complex. Sentence 2: They had suffered for others incomprehension of their customs and mutiny broke out north of Delhi. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-be743071e51c459b8590a2c9849d8066",
+        "input": "Sentence 1: Because while the dandy stands for beauty and elegance, he also stands for the restraint and self-discipline required to appear refined at all times. Sentence 2: The dandy is an antiquated, Victorian concept. Genre: slate.",
+        "output": [
+            "Y"
+        ]
+    },
+    {
+        "id": "openseek-6-391422e754bf4d73bbda8b24cf204e30",
+        "input": "Sentence 1: Tommy shoved a ticket into my hand and told me to get aboard the cars. Sentence 2: Their troubles stem from the fact that they're such a homogeneous party.  Genre: fiction.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-38f4fc15f52f4e419726e04ff8c8cf4b",
+        "input": "Sentence 1: oh okay does that last through the summer too Sentence 2: The model neglects to detail the information technology acquisition process. Genre: telephone.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-4dace0e68c2341c893ec4bb8aff66b83",
+        "input": "Sentence 1: Adjustment of cut points or use of alternative screening tests may be necessary for these subgroups. Sentence 2: The rule doesn't address hydrocarbons. Genre: government.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-693ddf6aed854f3892a5067e7216dafa",
+        "input": "Sentence 1: it turned out my mom was the only one in the family that didn't want to go because she didn't play golf or tennis  and there wasn't really a job for her there Sentence 2: You can go from the basilica of Sat'Ubaldo to La Rocca on foot. Genre: travel.",
+        "output": [
+            "N"
+        ]
+    },
+    {
+        "id": "openseek-6-df7a0f6d5c964b60894ea9ab754f900f",
+        "input": "Sentence 1: Although the babyboom generation will contribute heavily to the growth of the elderly population, increasing life expectancy and declining fertility rates are also responsible for the aging of the U.S. population. Sentence 2: The committee warned the LSC not to simplify. Genre: government.",
+        "output": [
+            "N"
+        ]
+    }
+]

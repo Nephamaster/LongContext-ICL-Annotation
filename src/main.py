@@ -1,4 +1,5 @@
 import json, os, argparse
+import random
 from tqdm import tqdm, trange
 from transformers import AutoTokenizer
 
@@ -9,16 +10,20 @@ from method import build_prompt, select_examples
 from method import annotate_nvidia as annotate # For Nvidia GPU
 # from method import annotate_ascend as annotate # For Huawei Ascend
 
+# RANDOM_SEED = 42
+RANDOM_SEED = 32
 TASK_FILES = {
-    1: '../data/openseek-1_closest_integers.json',
-    2: '../data/openseek-2_count_nouns_verbs.json',
-    3: '../data/openseek-3_collatz_conjecture.json',
-    4: '../data/openseek-4_conala_concat_strings.json',
-    5: '../data/openseek-5_semeval_2018_task1_tweet_sadness_detection.json',
-    6: '../data/openseek-6_mnli_same_genre_classification.json',
-    7: '../data/openseek-7_jeopardy_answer_generation_all.json',
-    8: '../data/openseek-8_kernel_generation.json',
+    1: '../data_100/openseek-1_closest_integers.json',
+    2: '../data_100/openseek-2_count_nouns_verbs.json',
+    3: '../data_100/openseek-3_collatz_conjecture.json',
+    4: '../data_100/openseek-4_conala_concat_strings.json',
+    5: '../data_100/openseek-5_semeval_2018_task1_tweet_sadness_detection.json',
+    6: '../data_100/openseek-6_mnli_same_genre_classification.json',
+    7: '../data_100/openseek-7_jeopardy_answer_generation_all.json',
+    8: '../data_100/openseek-8_kernel_generation.json',
 }
+
+TASKDEF_FILES_PATH = '../data/task_definitions.json'
 
 def parser_args():
     parser = argparse.ArgumentParser()
@@ -46,9 +51,19 @@ def evaluate(task_id:int,
     with open(task_file, 'r') as f:
         task_dict = json.load(f)
     
+    with open(TASKDEF_FILES_PATH, 'r') as f:
+        taskdef_dict = json.load(f)
+    
     task_name = task_dict['task_name']
-    task_description = task_dict['Definition'][0]
-    icl_examples = task_dict['examples'][:100]
+    task_description = taskdef_dict['tasks'][task_id - 1]['Definition'][0]
+    
+    # icl_examples = task_dict['examples'][:100]
+    random.seed(RANDOM_SEED)
+    icl_examples = random.sample(
+        task_dict['examples'],
+        k=min(5000, len(task_dict['examples']))
+    )
+    
     test_samples = task_dict['test_samples']
     
     version = 1

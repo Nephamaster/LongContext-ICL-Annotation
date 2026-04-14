@@ -1,0 +1,60 @@
+{
+  "tasks": [
+    {
+      "task_id": 1,
+      "task_name": "openseek-closest_integers",
+      "Definition": [
+        "You are given a list of integers in Python-style format (e.g., [1, -3, 5]). The list may contain positive numbers, negative numbers, zeros, and duplicate values.\n\nYour task is to find the minimum absolute difference between any two distinct elements in the list.\n\nDetailed instructions:\n1. Extract all integers from the list.\n2. Consider every pair of two different positions in the list (even if the values are the same).\n3. For each pair (a, b), compute the absolute difference: |a - b|.\n4. Among all computed differences, find the smallest value.\n\nImportant notes:\n- If the list contains duplicate values (e.g., -33 and -33), the absolute difference is 0, which is the minimum possible answer.\n- The result is always a non-negative integer.\n- The list will contain at least two integers.\n\nOutput format:\n- Return ONLY one integer.\n"
+      ]
+    },
+    {
+      "task_id": 2,
+      "task_name": "openseek-count_nouns_verbs",
+      "Definition": [
+        "In this task, you are given an input in the format:\n\"Sentence: '<text>'. Count the number of nouns/verbs in this sentence.\"\n\nYour goal is to output the correct count as a single integer.\n\nFollow these rules carefully:\n1. First identify the target category from the instruction: either nouns or verbs.\n2. Analyze only the sentence content inside quotes.\n3. Count by contextual part-of-speech usage (how the word functions in the sentence), not only by dictionary form.\n4. Noun counting:\n   - Count common nouns and proper nouns.\n   - Count singular and plural forms.\n   - Count each noun token once.\n5. Verb counting:\n   - Count lexical verbs in any tense or form (base, past, -ing, participle).\n   - Count auxiliary/linking verbs when they function as verbs in the sentence.\n6. Ignore punctuation and do not count determiners, adjectives, adverbs, pronouns, prepositions, conjunctions, or interjections unless they are clearly used as the target POS in context.\n7. If the sentence has minor grammar/spelling noise, infer the most plausible POS from context and continue counting.\n8. Return only one integer, with no explanation and no extra text."
+      ]
+    },
+    {
+      "task_id": "openseek-3",
+      "task_name": "openseek-collatz_conjecture",
+      "Definition": [
+        "In this task, you are given a list of integers and must apply one Collatz transformation step to each element.\n\nFollow these steps:\n(1) Read the list from left to right.\n(2) For each integer x, check parity: if x is even, compute x / 2; if x is odd, compute 3 * x + 1.\n(3) Apply the rule exactly once per element (do not iterate multiple Collatz rounds).\n(4) Keep the output order identical to the input order.\n(5) Keep the output length equal to the input length.\n\nReturn only the final transformed list of integers, with no explanation or extra text."
+      ]
+    },
+    {
+      "task_id": "openseek-4",
+      "task_name": "openseek-conala_concat_strings",
+      "Definition": [
+        "In this task, you are given a list of strings and must concatenate them into one final string.\n\nFollow these steps:\n(1) Read the input as an ordered list of string elements.\n(2) Keep every element exactly as it appears, including punctuation, capitalization, and symbols.\n(3) Concatenate elements from left to right in the original order.\n(4) Do not insert any extra characters, such as spaces, commas, quotes, or separators, unless they already exist inside an element.\n(5) Do not remove or modify characters from any element.\n\nReturn only the final concatenated string, with no explanation or extra text."
+      ]
+    },
+    {
+      "task_id": "openseek-5",
+      "task_name": "openseek-semeval_2018_task1_tweet_sadness_detection",
+      "Definition": [
+        "In this task, you are given a tweet and must decide whether the writer is expressing sadness.\n\nFollow these steps:\n(1) Read the full tweet and identify the main emotional tone and intent.\n(2) Look for direct sadness signals (e.g., grief, loss, hopelessness, crying, loneliness, disappointment, emotional pain).\n(3) Use hashtags, emojis, and slang as supporting clues, but do not rely on them alone.\n(4) Check context for sarcasm, jokes, quotations, or non-emotional mentions of words like \"sad\" or \"depressed\".\n(5) If sadness is clearly present, output \"Sad\"; otherwise output \"Not sad\".\n\nOutput only one label: \"Sad\" or \"Not sad\"."
+      ]
+    },
+    {
+      "task_id": "openseek-6",
+      "task_name": "openseek-mnli_same_genre_classification",
+      "Definition": [
+        "In this task, you're given two sentences, sentence 1 and sentence 2, and a genre in the input. Your job is to determine whether both sentences belong to that same given genre. Indicate your answer with Y and N respectively.\n\nGenres available include: face-to-face, government, letters, 9/11, slate, telephone, travel, verbatim, oup, fiction.\n- 'face-to-face' relates to conversations or dialogues.\n- 'government' encompasses information released from public government websites.\n- 'letters' refers to any written work for philanthropic fundraising.\n- '9/11' relates to information pertaining to the 9/11 attacks.\n- 'oup' includes non-fiction works on the textile industry and child development.\n- 'slate' refers to any cultural topic that appears in the slate magazine.\n- 'telephone' includes telephonic dialogue.\n- 'travel' deals with information in travel guides.\n- 'verbatim' includes short posts regarding linguistics.\n- 'fiction' includes popular works of fiction like 'The Secret Adversary' etc.\n\nFollow these steps to solve the task:\n(1) Read sentence 1, sentence 2, and the given genre label in the input.\n(2) Use genre cues (style, topic, wording, discourse form) to infer sentence 1's likely genre.\n(3) Use the same cues to infer sentence 2's likely genre.\n(4) Check whether sentence 1 belongs to the given genre, and whether sentence 2 also belongs to the given genre.\n(5) Output \"Y\" only if BOTH sentence 1 and sentence 2 belong to the GIVEN genre.\n(6) In every other case, output \"N\" (including when only one sentence matches, when neither matches, or when you are uncertain).\n(7) Return only one label as the final answer: \"Y\" or \"N\"."
+      ]
+    },
+    {
+      "task_id": "openseek-7",
+      "task_name": "openseek-jeopardy_answer_generation_all",
+      "Definition": [
+        "You will be given a Jeopardy-style trivia clue and its category.\nYour task is to infer the most likely correct response that fits both the clue and the category.\n\nTo solve the task, follow these steps:\n(1) Read the category to identify the domain or type of expected answer.\n(2) Read the clue carefully and extract key facts, constraints, names, dates, locations, or wordplay hints.\n(3) Combine the clue evidence with the category to narrow down candidate answers.\n(4) Choose the single best matching answer that is most specific and accurate.\n(5) If multiple candidates seem possible, select the one most commonly associated with the clue in standard trivia contexts.\n(6) Return only the final answer text, with no explanation.\n\nFor simplicity, your final answer must be entirely in lowercase letters."
+      ]
+    },
+    {
+      "task_id": "openseek-8",
+      "task_name": "kernel generation",
+      "Definition": [
+        "You are an expert in writing Triton operators for efficient GPU programming.\nYour task is to implement a custom Triton kernel and a Python wrapper function based on the given instruction.\n\nTo complete the task, follow these steps:\n(1) Read the requirement carefully and identify the target operation, input/output tensors, and expected behavior.\n(2) Design the Triton kernel interface, including pointers, shapes, strides, and compile-time constants (`tl.constexpr`).\n(3) Implement block-wise computation using `tl.program_id`, `tl.arange`, and proper offset calculation.\n(4) Apply correct masking in every `tl.load`/`tl.store` to avoid out-of-bounds access and guarantee memory safety.\n(5) Handle tensor strides explicitly so non-contiguous layouts are indexed correctly.\n(6) Write a Python wrapper that validates inputs, prepares output tensors, defines launch grid/meta-parameters, and launches the kernel.\n(7) Ensure the final code is complete, runnable, and consistent with Triton and PyTorch usage.\n\nReturn only the final code implementation."
+      ]
+    }
+  ]
+}

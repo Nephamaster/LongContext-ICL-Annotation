@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "openseek-7-babd2193dc424af3820290f0a30c0c65",
+        "input": "Category: TWINS \nClue: Famous twins hatched out in Genesis 25",
+        "output": [
+            "jacob & esau"
+        ]
+    },
+    {
+        "id": "openseek-7-eb26d1a922f84d38a8d57358d9a7f894",
+        "input": "Category: GO FIGURE \nClue: 55 + 25 - 5",
+        "output": [
+            "75"
+        ]
+    },
+    {
+        "id": "openseek-7-23e786bd966546a19ef534072d40a70a",
+        "input": "Category: TREE WORDS \nClue: You wood wood like like this 1966 Neil Diamond hit if you heard it",
+        "output": [
+            "\"cherry cherry\""
+        ]
+    },
+    {
+        "id": "openseek-7-3529acbd228b4c6f83dd4d4bb5c74e06",
+        "input": "Category: OKLAHOMIES \nClue: Born in Oklahoma, this Hall of Fame catcher for the Cincinnati Reds is part Choctaw Indian",
+        "output": [
+            "johnny bench"
+        ]
+    },
+    {
+        "id": "openseek-7-903035ca0ec446d7aa4478f350e2745e",
+        "input": "Category: GOING AROUND IN CIRCLES \nClue: Pi times a circle's diameter gives the measure of this",
+        "output": [
+            "the circumference"
+        ]
+    },
+    {
+        "id": "openseek-7-2af3adcc07f74db4b8886debc13d6024",
+        "input": "Category: BIRDS \nClue: Country which is the native habitat of the flightless bird seen here:",
+        "output": [
+            "new zealand "
+        ]
+    },
+    {
+        "id": "openseek-7-b93d1cc146b242d1ad1cc14c5c441023",
+        "input": "Category: SUFFIXES \nClue: 3-letter suffix meaning an incomplete resemblance to the word it's added to, like \"human\" & \"planet\"",
+        "output": [
+            "-oid"
+        ]
+    },
+    {
+        "id": "openseek-7-e6666dc081454a95a3a59ebe9a707bc5",
+        "input": "Category: ALL THE \"RIGHT\" MOVES \nClue: It's the correct 2-word prefix to the titles of earls & barons",
+        "output": [
+            "right honourable"
+        ]
+    },
+    {
+        "id": "openseek-7-2e513fae7c8c4f69a179d5133212c842",
+        "input": "Category: LIVE IN TEXAS \nClue: James Stockdale was this Texan's running mate in the 1992 presidental election",
+        "output": [
+            "perot"
+        ]
+    },
+    {
+        "id": "openseek-7-643a52d572264d86878416e27ac74c46",
+        "input": "Category: LET'S GO SHOPPING \nClue: Ghirardelli Square in this city was built on the grounds of a 19th century chocolate factory",
+        "output": [
+            "san francisco"
+        ]
+    },
+    {
+        "id": "openseek-7-72a41e000afb4f8c87206f94a24cdbc6",
+        "input": "Category: THERE'S A FIRST TIME FOR EVERYTHING \nClue: Airsick but intact, in 1797 Andre-Jacques Garnerin became the first aeronaut to make one of these descents",
+        "output": [
+            "a parachute jump"
+        ]
+    },
+    {
+        "id": "openseek-7-19b053de697445e698face2636ad66fa",
+        "input": "Category: POLITICIANS \nClue: Jimmy Carter attended the 1996 funeral of this Maine senator, once his secretary of state",
+        "output": [
+            "edmund muskie"
+        ]
+    },
+    {
+        "id": "openseek-7-acda5079382a4010887442ccf00be9fb",
+        "input": "Category: \"RIGHT\" NOW \nClue: On film, Brendan Fraser played this title Canadian Mountie",
+        "output": [
+            "dudley do-right"
+        ]
+    },
+    {
+        "id": "openseek-7-0adb050ca28641bf8cc97c9f7cf31461",
+        "input": "Category: WHO'S ON FIRST? \nClue: Sundays from 1984 to 1995, \"60 Minutes\" led into this CBS crime drama--guess Jessica finally got tired of writing",
+        "output": [
+            "murder, she wrote"
+        ]
+    },
+    {
+        "id": "openseek-7-1e0df49959674cc6a23d880f1ba6d1f3",
+        "input": "Category: MULTIPLE CHOICE \nClue: Of France, Italy or Russia, the one whose national anthem begins, \"Arise children of the fatherland\"",
+        "output": [
+            "france"
+        ]
+    },
+    {
+        "id": "openseek-7-01c3b175c40c4162bdbfb2cf232e447c",
+        "input": "Category: CHAMBER MUSIC \nClue: The \"American\" quartet is an 1893 work by this Czech composer known for his interest in the New World",
+        "output": [
+            "dvorak"
+        ]
+    },
+    {
+        "id": "openseek-7-c58f9fcbee2742f29fa830f0297feadf",
+        "input": "Category: BOOKS OF THE '20s \nClue: In 1922 she provided tips on \"Etiquette in Society, in Business, in Politics and at Home\"",
+        "output": [
+            "emily post"
+        ]
+    },
+    {
+        "id": "openseek-7-25db91aaeaec4c71a6d05722ea1d29c1",
+        "input": "Category: 1965 \nClue: Public Law 89-152 made burning or mutilating one of these cards a federal crime",
+        "output": [
+            "draft cards"
+        ]
+    },
+    {
+        "id": "openseek-7-f46bd3d5d492484d824398e20aa071f7",
+        "input": "Category: RELIGION \nClue: On Jan. 1, 1977, in Indianapolis, Mrs. J. Means became 1st woman legally ordained a priest by this church",
+        "output": [
+            "the episcopal church"
+        ]
+    },
+    {
+        "id": "openseek-7-429052f715ef4e08aded19dc4fae3abc",
+        "input": "Category: RELIGION \nClue: \"Mendicant\" religious orders made their money the hard way, they did this to earn it",
+        "output": [
+            "beg"
+        ]
+    },
+    {
+        "id": "openseek-7-37cfef79c88e4f5aa85e6ca450c1135d",
+        "input": "Category: FILE UNDER \"T\" \nClue: Paris didn't take Helen to Paris; he took her to this city & instigated a war",
+        "output": [
+            "troy"
+        ]
+    },
+    {
+        "id": "openseek-7-b45fb2b0900b4bb7b95a2c6ec3370291",
+        "input": "Category: THE OLYMPIC GAMES \nClue: Through 2000, Jenny Thompson has won 8 gold medals in this sport, the most by any U.S. woman in any sport",
+        "output": [
+            "swimming"
+        ]
+    },
+    {
+        "id": "openseek-7-576962ff06064df6ae53e543beda4b45",
+        "input": "Category: RELIGIOUS WORKS \nClue: J.S. Bach's B Minor one of these religious compositions is \"heavy\", man",
+        "output": [
+            "mass"
+        ]
+    },
+    {
+        "id": "openseek-7-7fb4b9999bfd43e8a3cbaeba89f912c6",
+        "input": "Category: NAME CALLING \nClue: This name means a follower of Dionysus; appropriate in the case of Mr. Rodman",
+        "output": [
+            "dennis"
+        ]
+    },
+    {
+        "id": "openseek-7-c37984485b1d47659c98742f44d27321",
+        "input": "Category: WORLD LEADERS \nClue: In 1918 he was born the son of a Tembu chief in what's now Eastern Cape province",
+        "output": [
+            "nelson mandela"
+        ]
+    },
+    {
+        "id": "openseek-7-84992ad4a24e430d8483646e5c70dafe",
+        "input": "Category: POLITICAL VERBIAGE \nClue: Money set aside for a campaign is said to be kept in one of these \"bellicose\" containers",
+        "output": [
+            "a war chest"
+        ]
+    },
+    {
+        "id": "openseek-7-868319abdffc4508be6e3f781b48812c",
+        "input": "Category: AUTHORS' NATIVE LANDS \nClue: Writer of \"Ficciones\" Jorge Luis Borges",
+        "output": [
+            "argentina"
+        ]
+    },
+    {
+        "id": "openseek-7-3c938de1e3244a919b2f4415ae69c326",
+        "input": "Category: DANCE \nClue: The Minangkabau candlelight dance of Sumatra is one of the most beautiful from this country",
+        "output": [
+            "indonesia"
+        ]
+    },
+    {
+        "id": "openseek-7-0aef68a3e8314831883759cedea7e063",
+        "input": "Category: R.C. \nClue: The sea around this author & naturalist was Sheepscot Bay, which her Maine summer home overlooked",
+        "output": [
+            "rachel carson"
+        ]
+    },
+    {
+        "id": "openseek-7-99939c94253e42c78e29838926cab49b",
+        "input": "Category: THE LOWELLS \nClue: Her \"What's O'Clock\" collection of verses won the Pulitzer Prize in 1926",
+        "output": [
+            "amy lowell"
+        ]
+    },
+    {
+        "id": "openseek-7-bf1c08caf01e42ef907e6efecaf7ac75",
+        "input": "Category: THE JOY OF \"SAC\"s \nClue: First settled in 1839, it became a state capital in 1854",
+        "output": [
+            "sacramento"
+        ]
+    },
+    {
+        "id": "openseek-7-71d8c56ea1564f6cbe5d119e20f944f1",
+        "input": "Category: BIRD-BRAINED BALLETS \nClue: The \"Bluebird Pas de Deux\" is performed at Princess Aurora's wedding in this fairy tale ballet",
+        "output": [
+            "sleeping beauty"
+        ]
+    },
+    {
+        "id": "openseek-7-5016d9b402084ad59d7e46410fc6843a",
+        "input": "Category: BEAR WITH THESE BOOKS \nClue: Mr. & Mrs. Brown look after this bear after he emigrates from Darkest Peru to London",
+        "output": [
+            "paddington"
+        ]
+    },
+    {
+        "id": "openseek-7-defb13ecc4ef48c9a33a290f74403735",
+        "input": "Category: ORDER IN THE COURTROOM TV \nClue: Bailiff Bull Shannon's real first name on this '80s NBC sitcom was Nostradamus",
+        "output": [
+            "night court"
+        ]
+    },
+    {
+        "id": "openseek-7-691e2c9faac2490d99c250dccf2cf094",
+        "input": "Category: DEPP PERCEPTION \nClue: In 2008 Johnny Depp received his third Oscar nomination in 5 years for playing this wronged coiffeur",
+        "output": [
+            "sweeney todd"
+        ]
+    },
+    {
+        "id": "openseek-7-0c049455316d43c88610e0df6584eecd",
+        "input": "Category: MEDICAL HISTORY \nClue: The Greeks thought a man's body had 4 humors:  phlegm, yellow bile, black bile & this fluid",
+        "output": [
+            "blood"
+        ]
+    },
+    {
+        "id": "openseek-7-1341d24fd82b440bb126f6c2afbee55d",
+        "input": "Category: MY PEOPLE CALL YOUR PEOPLE... \nClue: In this language Danish is called Tanskalainen, Norwegian is Norjalainen & Swedish is Ruotsalainen",
+        "output": [
+            "finnish"
+        ]
+    },
+    {
+        "id": "openseek-7-950e559449ba48b1a4e4af436565fb73",
+        "input": "Category: OTHER RED STATES \nClue: This word meaning \"extremely embarrassed\" has lethal undertones; it's derived from the Latin for \"death\"",
+        "output": [
+            "mortified"
+        ]
+    },
+    {
+        "id": "openseek-7-363bd7a7b361413b846555ac1697a745",
+        "input": "Category: HIGH SOCIETY \nClue: In 1954 Prince Bernhard of this low country became the 1st member of royalty to break the sound barrier",
+        "output": [
+            "the netherlands"
+        ]
+    },
+    {
+        "id": "openseek-7-47e4e66ff9d84d91b678674156680853",
+        "input": "Category: SOCK IT TO ME! \nClue: It's the useful meteorological instrument seen here:",
+        "output": [
+            "windsock"
+        ]
+    },
+    {
+        "id": "openseek-7-313d419f533b4061858cc95600c5d2c4",
+        "input": "Category: HI, FRENCHIE! \nClue: In French, this French monk of the Middle Ages is known as Pierre l'Ermite",
+        "output": [
+            "peter the hermit"
+        ]
+    },
+    {
+        "id": "openseek-7-c49db17ae34647cdb3591e2ad6a56711",
+        "input": "Category: LIONS & TIGERS & BEARS \nClue: The two that are of the family Felidae",
+        "output": [
+            "lions & tigers"
+        ]
+    },
+    {
+        "id": "openseek-7-c4f3361899124b70b0465aec5603c3d4",
+        "input": "Category: FOOD NAMED FOR PEOPLE \nClue: This lettuce is named for the horticulturist, not the garment that protects babies from spills",
+        "output": [
+            "bibb"
+        ]
+    },
+    {
+        "id": "openseek-7-c934d80eb62443df904af8573ea2c25f",
+        "input": "Category: WORLD GEOGRAPHY \nClue: The 2 northern extensions of the Red Sea are the Gulf of Aqaba & this gulf",
+        "output": [
+            "gulf of suez"
+        ]
+    },
+    {
+        "id": "openseek-7-6a4f74bec2094d3183a0b289fb8dab2f",
+        "input": "Category: READY FOR YOUR NUDE SCENE? \nClue: We'll film your scene on this kind of \"set\" that has a minimal crew -- no gawkers allowed",
+        "output": [
+            "closed set"
+        ]
+    },
+    {
+        "id": "openseek-7-fdc770f7fe3040db8090c67289495ed2",
+        "input": "Category: ON THE DELI TRAY \nClue: A slice of provolone could be mistaken for this cheese that shares its name with a California bay",
+        "output": [
+            "monterey jack"
+        ]
+    },
+    {
+        "id": "openseek-7-9a15a6cc6be4404588675aafaf79117e",
+        "input": "Category: \"A.C.\"/\"D.C.\" \nClue: All the envoys, ambassadors, etc. in residence at a capital",
+        "output": [
+            "the diplomatic corps"
+        ]
+    },
+    {
+        "id": "openseek-7-b45a7631261649d687387bc6d736f1cf",
+        "input": "Category: CONTINENTS BY VOLCANO \nClue: Cotopaxi",
+        "output": [
+            "south america"
+        ]
+    },
+    {
+        "id": "openseek-7-84f3b8a8d1e4408c95161b3747a56225",
+        "input": "Category: 20th CENTURY WOMEN \nClue: Born in Tarlac province in 1933, her original name was Maria Corazon Cojuangco",
+        "output": [
+            "corazon aquino"
+        ]
+    },
+    {
+        "id": "openseek-7-18efda3a51e84d3c851f2a2a1a3ee54a",
+        "input": "Category: BOOKISH \nClue: Her novel \"One Fifth Avenue\" offers more sex in the same city",
+        "output": [
+            "bushnell"
+        ]
+    },
+    {
+        "id": "openseek-7-2499a4bd8f0c41cbbd6e40589881580f",
+        "input": "Category: POETS' RHYME TIME \nClue: A.A.'s ovens",
+        "output": [
+            "milne\\'s kilns"
+        ]
+    },
+    {
+        "id": "openseek-7-c3f390491ed54f1c9a8b7d03bd84b770",
+        "input": "Category: AFRICAN-AMERICAN FIRSTS \nClue: This \"Beloved\" author was the first African-American to win a Nobel Prize for Literature",
+        "output": [
+            "toni morrison"
+        ]
+    },
+    {
+        "id": "openseek-7-5fdd7e281e4a4e9b863600e762114f8b",
+        "input": "Category: PHILOSOPHY \nClue: One who makes a practice of challenging supposed knowledge; Pyrrho was said to be the first on",
+        "output": [
+            "skeptic"
+        ]
+    },
+    {
+        "id": "openseek-7-76472ed05b6b4f22a9667cbdc10d7a29",
+        "input": "Category: WE ALL WANT TO CHANGE THE WORLD \nClue: A choice she made on Dec. 1, 1955 would lead to a Supreme Court ruling & Martin Luther King's rise to  fame",
+        "output": [
+            "rosa parks"
+        ]
+    },
+    {
+        "id": "openseek-7-01d1d7b7f2204955bd7aa3c2ada2548b",
+        "input": "Category: COFFEES ALL AROUND \nClue: If you feel a chill in Chinchina, Colombia, you may be passing the factory where instant coffee is made this way",
+        "output": [
+            "freeze-dried"
+        ]
+    },
+    {
+        "id": "openseek-7-f326394cebaf41d696a059af69550048",
+        "input": "Category: ANATOMICAL QUOTES \nClue: Chaucer's \"Un air it heard, a tother out it went\" is commonly quoted as this",
+        "output": [
+            "\"in one ear and out the other\""
+        ]
+    },
+    {
+        "id": "openseek-7-aa6340dd0d9c44349fd4ba1134347112",
+        "input": "Category: 20th CENTURY ART \nClue: He draws sports murals like the one seen here in his own colorful style:",
+        "output": [
+            "leroy neiman"
+        ]
+    },
+    {
+        "id": "openseek-7-ec5b81cf24ab4ab08fee1cc3349c8818",
+        "input": "Category: IN DENIAL \nClue: Old Testament book",
+        "output": [
+            "daniel"
+        ]
+    },
+    {
+        "id": "openseek-7-b38e81db109b4bd8b39850046cea3636",
+        "input": "Category: THE CINEMA \nClue: 1972 film that ends with \"Here life is beautiful.\"  The girls are beautiful.  Even the orchestra is beautiful\"",
+        "output": [
+            "cabaret"
+        ]
+    },
+    {
+        "id": "openseek-7-f141f20833e6490faf17a3fa6a32265a",
+        "input": "Category: HOUSEPLANTS \nClue: Like Spanish moss & pineapple, Earth Star & air plant are in this family of attractive tropical plants",
+        "output": [
+            "bromeliads"
+        ]
+    },
+    {
+        "id": "openseek-7-7edc656ea6d2421d8e3df1ff40c85c36",
+        "input": "Category: CLIFF NOTES \nClue: James Baldwin gained fame with this semi-autobiographical work that includes a peak in the title",
+        "output": [
+            "go tell it on the mountain"
+        ]
+    },
+    {
+        "id": "openseek-7-e931c5e539b54d52812a59aa0f3e7995",
+        "input": "Category: MICHIGAN \nClue: Population-wise, in 1950 this was the fourth-largest city in the U.S.; by 2000, it was eighth",
+        "output": [
+            "detroit"
+        ]
+    },
+    {
+        "id": "openseek-7-6d2146f7b96a473f9902da404b080a96",
+        "input": "Category: AN ABBREVIATED CATEGORY \nClue: Found before Albany & Oswego, SUNY stands for this",
+        "output": [
+            "state university of new york"
+        ]
+    },
+    {
+        "id": "openseek-7-8a5b8fe061c3410cad0ee6e9f84fb275",
+        "input": "Category: THE AMERICAN REVOLUTION \nClue: This monarch said, \"The die is now cast, the colonies must either submit or triumph\" upon approving the Intolerable Acts",
+        "output": [
+            "king george iii"
+        ]
+    },
+    {
+        "id": "openseek-7-649645c0b4e34ade9ea9b1af027b5ff8",
+        "input": "Category: 20th CENTURY NOTABLES \nClue: Einstein said of him, \"Generations to come will scarcely believe\" one such as he \"walked the Earth in flesh & blood\"",
+        "output": [
+            "mohandas gandhi"
+        ]
+    },
+    {
+        "id": "openseek-7-2ab5abc03c1541309bd4fe61fc568830",
+        "input": "Category: CONGRESS IS ALL A-TWITTER \nClue: He tweets under his own name & @GOPLeader",
+        "output": [
+            "john boehner"
+        ]
+    },
+    {
+        "id": "openseek-7-7c8ffd8c5824406cbf4f07633a793430",
+        "input": "Category: SEE THE USA \nClue: This city's voodoo tours can take you to voodoo rituals & voodo queen Marie Laveau's tomb on Basin St.",
+        "output": [
+            "new orleans"
+        ]
+    },
+    {
+        "id": "openseek-7-4fab726ce23041f994674a38cf68e755",
+        "input": "Category: WORLD AUTHORS \nClue: Peer Gynt, the title character of his 1867 play, is based on a legendary Norwegian folk hero",
+        "output": [
+            "ibsen"
+        ]
+    },
+    {
+        "id": "openseek-7-434b8df422c945d6866ef487ef565d2a",
+        "input": "Category: BITS \nClue: The Minister of Silly Walks was a memorable portrayal by this gangly member of the Monty Python troupe",
+        "output": [
+            "john cleese"
+        ]
+    },
+    {
+        "id": "openseek-7-d0b888ca40274658b10a45f6021b1693",
+        "input": "Category: LIFE OF A SALESMAN \nClue: Heavy equipment salesman William Jefferson Blythe didn't live to see this son of his born in 1946",
+        "output": [
+            "bill clinton"
+        ]
+    },
+    {
+        "id": "openseek-7-4896515a1cbf4c9782e595732c98abb5",
+        "input": "Category: COFFEE TABLE BOOKS \nClue: Speeding off the shelves is \"The Fast Lane\", the NHRA's official 50th anniversary book on this type of racing",
+        "output": [
+            "drag racing"
+        ]
+    },
+    {
+        "id": "openseek-7-4c61702a8d8547f4b97c3a1950e949fc",
+        "input": "Category: EUROPEANA \nClue: Steg & Schaan are towns in this landlocked principality",
+        "output": [
+            "liechtenstein"
+        ]
+    },
+    {
+        "id": "openseek-7-8d0a17492ac142d0af3f164452fe2f2b",
+        "input": "Category: LET THE GAMES BEGIN \nClue: Joint military exercises like the ones the U.S. conducts with South Korea also have this more playful name",
+        "output": [
+            "war games"
+        ]
+    },
+    {
+        "id": "openseek-7-59610a0513c4485a80809330bf4c59e4",
+        "input": "Category: FAR OUT FACTS \nClue: Barrow is the northernmost city in this state & thus the United States",
+        "output": [
+            "alaska"
+        ]
+    },
+    {
+        "id": "openseek-7-5606774d9f224c9f95b79c84eaed1649",
+        "input": "Category: YOU GOTTA HAVE ART \nClue: This 20th century artist called some of his paintings \"hand-painted dream photographs\"",
+        "output": [
+            "dalí"
+        ]
+    },
+    {
+        "id": "openseek-7-5ecce0cead7f4cfb9e6f4e7c22c45593",
+        "input": "Category: OPRYLAND USA \nClue: A historic building, this former home of the Grand Ole Opry was renovated & reopened in 1994",
+        "output": [
+            "the ryman auditorium"
+        ]
+    },
+    {
+        "id": "openseek-7-2d4924460882425fbb84949f78da4cf8",
+        "input": "Category: HISTORY \nClue: In 1966 this university's Public Policy program became the Kennedy School of Government",
+        "output": [
+            "harvard"
+        ]
+    },
+    {
+        "id": "openseek-7-343276836692452fb3346cb2430f2e85",
+        "input": "Category: TV NAME DROPPERS \nClue: \"Everybody Loves ____\"",
+        "output": [
+            "raymond"
+        ]
+    },
+    {
+        "id": "openseek-7-d2034d7c579d413b907c71aefaa98942",
+        "input": "Category: MIAMI NICE \nClue: It's the nickname of the sports teams at the University of Miami",
+        "output": [
+            "hurricanes"
+        ]
+    },
+    {
+        "id": "openseek-7-fad5b385ab924d218e27291cdf87ca5b",
+        "input": "Category: IN THE MEDICINE CABINET \nClue: This product's website features chemistry experiments like \"The Effect of Temperature on Rate of Reaction\"",
+        "output": [
+            "alka-seltzer"
+        ]
+    },
+    {
+        "id": "openseek-7-3acfc05d4808421dafb6842935f26927",
+        "input": "Category: BOOKS & AUTHORS \nClue: In 1997 this author of \"Watchers\" & \"Intensity\" published a new thriller, \"Sole Survivor\"",
+        "output": [
+            "dean koontz"
+        ]
+    },
+    {
+        "id": "openseek-7-f1ef0a9530174c498d65919f0c961843",
+        "input": "Category: CELEBRITY RHYME TIME \nClue: O'Donnell's teapot covers",
+        "output": [
+            "rosie\\'s cozies"
+        ]
+    },
+    {
+        "id": "openseek-7-63fae6f289df43aeb7115ae99871badc",
+        "input": "Category: SHOW TUNES \nClue: The \"her\" in \"I've Grown Accustomed to Her Face\" refers to this character",
+        "output": [
+            "eliza doolittle"
+        ]
+    },
+    {
+        "id": "openseek-7-1f3c7486b7ae4dcf9f3eaf88c98a2558",
+        "input": "Category: IMAX FILMS \nClue: Astronauts became cinematographers for the 1997 film \"Mission to\" this space station",
+        "output": [
+            "mir"
+        ]
+    },
+    {
+        "id": "openseek-7-edb437cd101d4ef8b99292672163bb3a",
+        "input": "Category: FOREIGN WORDS & PHRASES \nClue: This French term can describe a chicken, ham & cheese dish or the master chef who prepared it",
+        "output": [
+            "cordon bleu"
+        ]
+    },
+    {
+        "id": "openseek-7-f61d455de070484a893ed5ce8aa873bd",
+        "input": "Category: SERIOUS RADIO \nClue: This man, whose real name is actually Gary, began hosting \"A Prairie Home Companion\" in 1974",
+        "output": [
+            "garrison keillor"
+        ]
+    },
+    {
+        "id": "openseek-7-a28822045053471fa6d19fdc24214d47",
+        "input": "Category: THE MUSICAL FRUIT \nClue: The Beatles: \"___ Fields Forever\"",
+        "output": [
+            "strawberry"
+        ]
+    },
+    {
+        "id": "openseek-7-2fd186284bf64301b94d7b731da2d662",
+        "input": "Category: HELL \nClue: A land of mist & cold, Niflheim was the lowest region of hell in this 5-letter mythology",
+        "output": [
+            "norse"
+        ]
+    },
+    {
+        "id": "openseek-7-6763f37ed0054bf783e6f2ab4a855d52",
+        "input": "Category: FAMILIAR PHRASES \nClue: When a situation goes from bad to worse, it's the time \"push comes to\" this",
+        "output": [
+            "shove"
+        ]
+    },
+    {
+        "id": "openseek-7-bed2bfdfc7684a528d9cfdb5c40bb5aa",
+        "input": "Category: STEPHEN KING \nClue: In a 2002 TV miniseries horrifying secrets are revealed in a haunted mansion known by this colorful name",
+        "output": [
+            "rose red"
+        ]
+    },
+    {
+        "id": "openseek-7-748afc012d4f4c8182c17e12217c38bd",
+        "input": "Category: FURNITURE \nClue: He popularized his furniture style in his 1754 book \"The Gentleman & Cabinetmaker's Director\"",
+        "output": [
+            "thomas chippendale"
+        ]
+    },
+    {
+        "id": "openseek-7-d6fa1b0af49c49759bd9c41eccecd04c",
+        "input": "Category: THE DALLAS COWBOYS \nClue: The blue-white-blue stripe on the team's silver helmets was changed to red-white-blue for this year",
+        "output": [
+            "1976"
+        ]
+    },
+    {
+        "id": "openseek-7-1458b846fdc94aaabca9b0553ee2fc20",
+        "input": "Category: I WANT A COOKIE! \nClue: Chips Deluxe & Fudge Shoppe are cookies made by this \"elfin\" company",
+        "output": [
+            "keebler"
+        ]
+    },
+    {
+        "id": "openseek-7-f06c23af535545b3bdd53f75e83dec89",
+        "input": "Category: ROCKS & MINERALS \nClue: Mines near Ticonderoga, New York were once the USA's principal source for this 8-letter mineral",
+        "output": [
+            "graphite"
+        ]
+    },
+    {
+        "id": "openseek-7-d5749d7488ee4b94b0f538375cf4b3c1",
+        "input": "Category: ONE-WORD RHYMES \nClue: Mayday means you're in trouble; this means your prime of success or popularity",
+        "output": [
+            "heyday"
+        ]
+    },
+    {
+        "id": "openseek-7-6f9c5b973c7d4d94883c25e98d2150d2",
+        "input": "Category: THEIR GREATEST HITS ALBUMS \nClue: \"Forty Licks\" (2002) & \"Hot Rocks: 1964-1971 \"",
+        "output": [
+            "the rolling stones"
+        ]
+    },
+    {
+        "id": "openseek-7-a3349586e52a451ab56e61bdc68a7d7d",
+        "input": "Category: MEASURING DEVICES \nClue: A spirometer measures the capacity of these organs",
+        "output": [
+            "the lungs"
+        ]
+    },
+    {
+        "id": "openseek-7-c57e91f9e19d4c769e93350e11263004",
+        "input": "Category: LOVE'S LABOUR'S LOST \nClue: This actor divorced Demi Moore in 2000; did she ask for the whole 9 yards?",
+        "output": [
+            "bruce willis"
+        ]
+    },
+    {
+        "id": "openseek-7-b2689797689d4892869214a41eec59e3",
+        "input": "Category: HORSEMEN \nClue: From a word meaning \"adventurer\" or \"vagabond\", they were the Russian army's elite horsemen",
+        "output": [
+            "cossacks"
+        ]
+    },
+    {
+        "id": "openseek-7-1f48fa59c87d4990820c94f7a48328ee",
+        "input": "Category: GO AHEAD, MAKE MY \"DAY\" \nClue: Also a Beatles title, it's someone who goes on an excursion in the morning & returns before bedtime, yeah",
+        "output": [
+            "a daytripper"
+        ]
+    },
+    {
+        "id": "openseek-7-223ba4d8308840088bf17e0d1b3bdad5",
+        "input": "Category: TROPICAL FOREST CREATURES \nClue: There are over 100 species of the poison arrow type of these amphibians",
+        "output": [
+            "frogs"
+        ]
+    },
+    {
+        "id": "openseek-7-7a8a3375e7a7445caa2bce8da902063e",
+        "input": "Category: THE 19-AUGHTs \nClue: This barbershop favorite was a campaign song for \"Honey Fitz\" Fitzgerald",
+        "output": [
+            "\"sweet adeline\""
+        ]
+    },
+    {
+        "id": "openseek-7-93e937b2353e490b8a55d8c6bb94b9ce",
+        "input": "Category: MAJOR LEES \nClue: He starred in the films \"Fists of Fury\" & \"Game of Death\"",
+        "output": [
+            "bruce lee"
+        ]
+    },
+    {
+        "id": "openseek-7-d5fd2afa28034830b075437c8fce6c30",
+        "input": "Category: EDUCATION \nClue: He was chairman of the National Endowment for the Humanities before becoming Secretary of Education in 1985",
+        "output": [
+            "william bennett"
+        ]
+    },
+    {
+        "id": "openseek-7-ad8c65592e634fcd8cda4d6d47376027",
+        "input": "Category: SYRUPTITIOUS \nClue: After baking, syrup is poured over this multilayered paper-thin Turkish & Greek pastry",
+        "output": [
+            "baklava"
+        ]
+    },
+    {
+        "id": "openseek-7-b20f798865cd4389b95fdcbd562d0763",
+        "input": "Category: PIRATE MOVIES \nClue: Silent screen swashbuckler; his film \"The Black Pirate\" has been called \"a definitive pirate movie\"",
+        "output": [
+            "douglas fairbanks, sr."
+        ]
+    },
+    {
+        "id": "openseek-7-993fd25ba2d84f05a96c35c641a70d28",
+        "input": "Category: TROPICAL FOREST CREATURES \nClue: The coat of the clouded species of this cat provides it with excellent camouflage in India's forests",
+        "output": [
+            "leopard"
+        ]
+    },
+    {
+        "id": "openseek-7-3d32d55b9ac6463d95c1df61c544f7d0",
+        "input": "Category: MALCOLM X IN THE MIDDLE \nClue: On 29, 39 or 49, the age at which Malcolm X died, the same as Martin Luther King, Jr.",
+        "output": [
+            "39"
+        ]
+    },
+    {
+        "id": "openseek-7-481db9019bd443c49bd6165629881adf",
+        "input": "Category: RADIO STARS \nClue: Kyle Cantrell, operations manager at Nashville's WSM-AM, is the Saturday night announcer for this show",
+        "output": [
+            "grand ole opry"
+        ]
+    },
+    {
+        "id": "openseek-7-f865dc87feed4a2ca128e47348c05c9d",
+        "input": "Category: COMIC BOOKS \nClue: \"Leading with my Chin\"",
+        "output": [
+            "jay leno"
+        ]
+    },
+    {
+        "id": "openseek-7-a6be0c9b23b1487abaf29bb38719caae",
+        "input": "Category: WEISS GUYS \nClue: WWII fighter ace Robert Weiss scored more than 100 kills flying Messerschmitts & Focke-Wulfs for this Air Force",
+        "output": [
+            "the luftwaffe"
+        ]
+    },
+    {
+        "id": "openseek-7-8c8045a24881482297e1293159d57bb6",
+        "input": "Category: GO, KELLY! \nClue: He was a losing Super Bowl quarterback 4 times",
+        "output": [
+            "jim kelly"
+        ]
+    },
+    {
+        "id": "openseek-7-aa85b4dfd25d4a1ca1e408c93c6358de",
+        "input": "Category: OBSERVATORIES \nClue: Located on Salisbury Plain, Wiltshire, England, it may have been built as early as 2800 B.C.",
+        "output": [
+            "stonehenge"
+        ]
+    },
+    {
+        "id": "openseek-7-f6474931ccbe4e4fbfaaa7074f1c89d6",
+        "input": "Category: MR. T \nClue: \"Germania\" & \"Historiae\" are major works by this Roman orator & public official",
+        "output": [
+            "tacitus"
+        ]
+    },
+    {
+        "id": "openseek-7-f4faf8ab9ab743f28fb0ad9e85030379",
+        "input": "Category: THAT'S \"OK\" \nClue: To dupe, or a variety of billiards",
+        "output": [
+            "snooker"
+        ]
+    },
+    {
+        "id": "openseek-7-778e857af7004c2ab7b4474829d08dbc",
+        "input": "Category: 7-\"L\"ETTER WORDS \nClue: From the Latin for \"to read\", it's a reading desk with a slanted top in a church",
+        "output": [
+            "lectern"
+        ]
+    },
+    {
+        "id": "openseek-7-7babf5d8cd7c406eb7b7e6acec6aa1ab",
+        "input": "Category: GOSPEL TRUTH \nClue: Mark 10 says a man shall \"cleave to\" this person \"...so they are no more twain, but one flesh\"",
+        "output": [
+            "his wife"
+        ]
+    },
+    {
+        "id": "openseek-7-c568d77f09814d1abdefae593d44477e",
+        "input": "Category: THE CIVIL RIGHTS MOVEMENT \nClue: This league was founded in 1910, largely to help black migrants to New York City",
+        "output": [
+            "the urban league"
+        ]
+    },
+    {
+        "id": "openseek-7-5a0167bdd6484a25a1a04cd4d81b3c7e",
+        "input": "Category: DAD, GUM IT \nClue: This \"colorful\" gum-chewing girl has a golden ticket that gets her & her dad in to see Willy Wonka",
+        "output": [
+            "violet beauregarde"
+        ]
+    },
+    {
+        "id": "openseek-7-f0b62523339949218ca9e3df26033826",
+        "input": "Category: GREAT BRITONS \nClue: The 1st Baron Herbert of Lea was the man who sent this woman and her nurses to the Crimean front",
+        "output": [
+            "florence nightingale"
+        ]
+    },
+    {
+        "id": "openseek-7-bdcd46fc5ef44df8b4c57562d92f05b4",
+        "input": "Category: THE PLANETS \nClue: Because it's closest to the sun, this planet is best seen near the horizon just before sunset or sunrise",
+        "output": [
+            "mercury"
+        ]
+    },
+    {
+        "id": "openseek-7-d3ffa51e2b8b4c3a87709322d970aab8",
+        "input": "Category: FAMOUS SCANDINAVIANS \nClue: The painter who said, \"Illness, madness and death were the dark angels who watched over my cradle\"",
+        "output": [
+            "edvard munch"
+        ]
+    },
+    {
+        "id": "openseek-7-6f4994b7eb9545b0a824ead56fcb3d7c",
+        "input": "Category: ACTORS & ACTRESSES \nClue: Professional name used by the actress seen here during her film career; it's different from her married name (clip from \"Hellcats of the Navy\")",
+        "output": [
+            "nancy davis"
+        ]
+    },
+    {
+        "id": "openseek-7-a2ec20be171f47e0aed9133ebb9a6baf",
+        "input": "Category: THIS 'N' THAT \nClue: Legend says the Dannebrog, now this country's flag, dropped from heaven during a 1219 battle",
+        "output": [
+            "denmark"
+        ]
+    },
+    {
+        "id": "openseek-7-3d80dbb442c54d23b69c74716fe56c3a",
+        "input": "Category: VOCABULARY \nClue: Gullah, which has African roots, is a language spoken by some black inhabitants of this country",
+        "output": [
+            "the united states"
+        ]
+    },
+    {
+        "id": "openseek-7-542102a0e5e84490a9a20c2a223ea25d",
+        "input": "Category: KUNG FU \nClue: Kung fu uses colored sashes rather than belts to indicate this",
+        "output": [
+            "level/rank"
+        ]
+    },
+    {
+        "id": "openseek-7-5ea31036d6bc44ea98ea43158cf8e083",
+        "input": "Category: EASY MOLECULAR BIOLOGY \nClue: These one-celled organisms that may cause disease also produce the \"snipping\" enzymes that create recombinant DNA",
+        "output": [
+            "bacteria"
+        ]
+    },
+    {
+        "id": "openseek-7-08e27285085c42cd81394c35cd8f0515",
+        "input": "Category: ASTRONAUTS \nClue: Physicist Owen Garriott & physician  Joe Kerwin were science pilots on missions to this '70s space station",
+        "output": [
+            "skylab"
+        ]
+    },
+    {
+        "id": "openseek-7-eaa2862c447640558afe098494e4d0cf",
+        "input": "Category: SEA LIFE \nClue: The skin of an octopus contains cells called chromatophores that allow it to do this when excited",
+        "output": [
+            "change color"
+        ]
+    },
+    {
+        "id": "openseek-7-10380babed2a42aca81b6fbc5497d48d",
+        "input": "Category: \"B\"EGINNINGS \nClue: It's a synonym for width",
+        "output": [
+            "breadth"
+        ]
+    },
+    {
+        "id": "openseek-7-2085f5741dc942179efe8e5e30b01ee1",
+        "input": "Category: OF AN ENGLISHMAN \nClue: \"Row\" in Mayfair that's home to the finest British tailors",
+        "output": [
+            "savile row"
+        ]
+    },
+    {
+        "id": "openseek-7-d07037692f404802b85865ef2432714a",
+        "input": "Category: AMERICAN HODGEPODGE \nClue: Yee-haw!  The Durango Cowgirl Classic is an all-female rodeo in this state",
+        "output": [
+            "colorado"
+        ]
+    },
+    {
+        "id": "openseek-7-5a731f01a5214aac850d575a9511efc8",
+        "input": "Category: THE IROQUOIS \nClue: An Iroquois woman could do this to her husband simply by putting his belongings outdoors",
+        "output": [
+            "divorce him"
+        ]
+    },
+    {
+        "id": "openseek-7-6acd9e3e173748529309fadf1483700b",
+        "input": "Category: FOOD \nClue: The German name of this German cake is Schwarzwalder Kirschtorte",
+        "output": [
+            "black forest torte"
+        ]
+    },
+    {
+        "id": "openseek-7-07f47f78e7aa4157ae4888e58924fc2b",
+        "input": "Category: ODD WORDS \nClue: Now meaning \"drivel\", it used to be a trick to gain applause",
+        "output": [
+            "claptrap"
+        ]
+    },
+    {
+        "id": "openseek-7-4321806e7e434aeabe2efbefafac7afa",
+        "input": "Category: SCIENCE GUYS \nClue: In 1888 this French bacteriologist founded an institute in Paris to continue his rabies research",
+        "output": [
+            "pasteur"
+        ]
+    },
+    {
+        "id": "openseek-7-3c665b66154647edbc78140c160ad5fc",
+        "input": "Category: POPULATIONS \nClue: About 75 percent of this U.S. state's population is found on only one island",
+        "output": [
+            "hawaii"
+        ]
+    },
+    {
+        "id": "openseek-7-83acc32a7ed84f63977cd7df650f1f6f",
+        "input": "Category: BALLET \nClue: Stravinsky & this Russian-born American choreographer collaborated on several ballets including \"Agon\"",
+        "output": [
+            "georges balanchine"
+        ]
+    },
+    {
+        "id": "openseek-7-d15ee8e01a114ccdabedf894a27b162b",
+        "input": "Category: 5-LETTER WORDS \nClue: A big fishing net, maybe in the river of the same name",
+        "output": [
+            "a seine"
+        ]
+    },
+    {
+        "id": "openseek-7-327849b6bc4c461d81533e23e78a94a6",
+        "input": "Category: TV GETS REAL \nClue: This supermodel & onetime judge on \"America's Next Top Model\" started her own \"Modeling Agency\"",
+        "output": [
+            "janice dickinson"
+        ]
+    },
+    {
+        "id": "openseek-7-8fe1ba2b71e04a328a87253661a254d3",
+        "input": "Category: READ THE BOOK \nClue: According to the title of a book by George Eliot, the Dorlcote Mill is on this river",
+        "output": [
+            "the floss"
+        ]
+    },
+    {
+        "id": "openseek-7-07d8515f184c435c912c430c8db473b7",
+        "input": "Category: ROCK OF AGELESS \nClue: Al Rappa, who started as part of this group with Bill Haley in 1956, now leads the group, Bill being dead",
+        "output": [
+            "the comets"
+        ]
+    },
+    {
+        "id": "openseek-7-26675e4f6f9b453b9d58c2f46060126d",
+        "input": "Category: OCCUPATIONS \nClue: Prep & line are types of this 4-letter job",
+        "output": [
+            "cook"
+        ]
+    },
+    {
+        "id": "openseek-7-2230814f70ac4ebd933743e33efd975c",
+        "input": "Category: LOOKING FOR A LATIN LOVER \nClue: You'll be on the money knowing \"out of many, one\" is the translation of this Latin phrase",
+        "output": [
+            "e pluribus unum"
+        ]
+    },
+    {
+        "id": "openseek-7-77dabc3e83ec44aeb8b32603a22e60d9",
+        "input": "Category: BRUSH UP YOUR SHAKESPEARE \nClue: In the '60s, Laurence Olivier put on blackface to play this Shakespearean hero",
+        "output": [
+            "othello"
+        ]
+    },
+    {
+        "id": "openseek-7-144c25aa8b9545fb9b86861abc5ad6ef",
+        "input": "Category: \"KEY\" WORDS \nClue: Qwerty is a standard format for one of these",
+        "output": [
+            "a keyboard"
+        ]
+    },
+    {
+        "id": "openseek-7-4d5ac2b2325646dab81f9ccc309d5df6",
+        "input": "Category: IN THE SMITHSONIAN \nClue: In 1933 Miss Mary McCabe donated the compass this pair used between 1804 & 1806",
+        "output": [
+            "lewis & clark"
+        ]
+    },
+    {
+        "id": "openseek-7-38e58f1055954ff4adbdd172e933e0db",
+        "input": "Category: MIKE TV \nClue: Nefarious CEOs hide under their desks when this \"60 Minutes\" anchor comes knocking on their doors",
+        "output": [
+            "mike wallace"
+        ]
+    },
+    {
+        "id": "openseek-7-4c55870f33134c02826c5e543c7d437e",
+        "input": "Category: MUSICAL THEATRE \nClue: This creator of Jeeves wrote lyrics for more than 2 dozen musicals, including \"Leave It To Jane\"",
+        "output": [
+            "p.g. wodehouse"
+        ]
+    },
+    {
+        "id": "openseek-7-ed45d0179ac9444681a0bfb92e70d639",
+        "input": "Category: EXPLORERS \nClue: This first American to orbit the Earth shot down 3 MIGs during the Korean War",
+        "output": [
+            "john glenn"
+        ]
+    },
+    {
+        "id": "openseek-7-818485abc06844f89775fcf31bdf2f1e",
+        "input": "Category: THE GUARDIAN \nClue: Hephaestus made Talus, a man of brass, to guard this island for its ruler Minos",
+        "output": [
+            "crete"
+        ]
+    },
+    {
+        "id": "openseek-7-c2f9a11c6d1c49ca916e16627c75fa0d",
+        "input": "Category: STUPID ANSWERS \nClue: Leonardo da Vinci was born near this small Tuscan town in 1519",
+        "output": [
+            "vinci"
+        ]
+    },
+    {
+        "id": "openseek-7-151ea0b95d8e4e4eaed5c8868d139241",
+        "input": "Category: AIN'T THAT AMERICA \nClue: From 1784 to 1788 the eastern part of this state was a separate state called Franklin",
+        "output": [
+            "tennessee"
+        ]
+    },
+    {
+        "id": "openseek-7-3a4592862cb941bca471c5ce3077452e",
+        "input": "Category: THE \"FAC\"s OF LIFE \nClue: Send a fax & tell me it's short for this word",
+        "output": [
+            "facsimile"
+        ]
+    },
+    {
+        "id": "openseek-7-056a2115470a47c7951986f6acccdd6d",
+        "input": "Category: QUICKIES \nClue: Comic book superhero seen here",
+        "output": [
+            "the flash"
+        ]
+    },
+    {
+        "id": "openseek-7-906d058628ce493cb2978a1ba0ca83e2",
+        "input": "Category: HODGEPODGE \nClue: This New England state was the first admitted to the Union after the original 13 colonies",
+        "output": [
+            "vermont"
+        ]
+    },
+    {
+        "id": "openseek-7-d62e2b17307b41e39bb951318d736a94",
+        "input": "Category: THERE WILL BE \"UD\" \nClue: A person who does distasteful work; it's also in the name of an online \"Report\"",
+        "output": [
+            "a drudge"
+        ]
+    },
+    {
+        "id": "openseek-7-732b2dc666c54b59b3b553ef704071c3",
+        "input": "Category: THE FIRST SUPPER \nClue: Instead of an elaborate meal, this southerner served peanuts & pretzels",
+        "output": [
+            "jimmy carter"
+        ]
+    },
+    {
+        "id": "openseek-7-3da22a2f97db43a1bc709701c50bb3e6",
+        "input": "Category: U.N. SECRETARIES-GENERAL \nClue: After leaving the U.N., he served as governor of Oslo & Akershus",
+        "output": [
+            "trygve lie"
+        ]
+    },
+    {
+        "id": "openseek-7-3c8ef9e6e17644579069e60eb1d05090",
+        "input": "Category: \"AND\"ROCLES \nClue: Playwright Maxwell or singer Marian",
+        "output": [
+            "anderson"
+        ]
+    },
+    {
+        "id": "openseek-7-671fd771520f4596982a7a8479208d10",
+        "input": "Category: MOTHER GOOSE \nClue: He \"Kissed the girls and made them cry\" & ran away \"when the boys came out to play\"",
+        "output": [
+            "georgie porgie"
+        ]
+    },
+    {
+        "id": "openseek-7-944cd40484ba46848dd96f0a35d9d600",
+        "input": "Category: THE CINEMA: 50 YEARS AGO \nClue: Joseph L. Mankiewicz based his screenplay for this film on Mary Orr's story \"The Wisdom of Eve\"",
+        "output": [
+            "all about eve"
+        ]
+    },
+    {
+        "id": "openseek-7-61db3a933ef1439ca0f31895703527cb",
+        "input": "Category: SMALL U.S. CAPITALS \nClue: Although its population is only about 50,000, it's Wyoming's largest city",
+        "output": [
+            "cheyenne"
+        ]
+    },
+    {
+        "id": "openseek-7-e74b71e184c548179019a0aa95bd947e",
+        "input": "Category: GEOGRAPHIC POP \nClue: A sleek country-rock sound helped this \"Tennessee River\" band have a string of hits in the '80s & '90s",
+        "output": [
+            "alabama"
+        ]
+    },
+    {
+        "id": "openseek-7-50f0c9991417478db765eefa4d04f0f3",
+        "input": "Category: ANAGRAMS \nClue: The way she rambles on nonsensically, she's truly lost these",
+        "output": [
+            "marbles"
+        ]
+    },
+    {
+        "id": "openseek-7-c94e6811d0684dc3bf3e6c84ba133800",
+        "input": "Category: HOUSES OF WORSHIP \nClue: Willow Creek Community Church draws 15,000 worshipers every week to this Illinois city's suburbs",
+        "output": [
+            "chicago"
+        ]
+    },
+    {
+        "id": "openseek-7-5a304e70bdf14d2aa3f4bd81cfab9b39",
+        "input": "Category: DIRTY ROTTEN SCOUNDRELS \nClue: In 1997 Autumn Jackson was convicted of shaking down this comedian she claims is her father",
+        "output": [
+            "bill cosby"
+        ]
+    },
+    {
+        "id": "openseek-7-17d8af08f0f94e1b9fe66855bf9f416c",
+        "input": "Category: ESPIONAGE \nClue: In 1962 the CIA enlisted the Mafia to assassinate this Cuban leader",
+        "output": [
+            "fidel castro"
+        ]
+    },
+    {
+        "id": "openseek-7-20765e48ae404ba4bd68519734b4ae6c",
+        "input": "Category: THE BRITISH INVASION \nClue: This manager of The Beatles managed Billy J. Kramer & The Dakotas",
+        "output": [
+            "brian epstein"
+        ]
+    },
+    {
+        "id": "openseek-7-a03b221013314be5905b068613209052",
+        "input": "Category: \"F\"RIENDS OF SCIENCE \nClue: Before sending this ape expert to Africa in 1966, Louis Leakey asked her to get a pre-emptive appendectomy",
+        "output": [
+            "fossey"
+        ]
+    },
+    {
+        "id": "openseek-7-ba391e33d9c44196aebdbec810cb1cfb",
+        "input": "Category: JUST FOR THE \"HALL\" OF IT \nClue: It's a false perception when no external stimulus exists",
+        "output": [
+            "hallucination"
+        ]
+    },
+    {
+        "id": "openseek-7-d064a4afcee1421c88ed9cbfb8f4881f",
+        "input": "Category: A TRIP TO MARS \nClue: Arnold arduously activates an ancient atmosphere appliance in this 1990 Martian big screen adventure",
+        "output": [
+            "total recall"
+        ]
+    },
+    {
+        "id": "openseek-7-7dc64be5f0a4455a9aa7a3aaafc24b3c",
+        "input": "Category: MAKING A GOOD IMPRESSIONIST \nClue: Painter of \"The Wave\", he was the father of French first wave filmmaker Jean",
+        "output": [
+            "pierre-auguste renoir"
+        ]
+    },
+    {
+        "id": "openseek-7-cde848af88be40ae8e8ab395e0fde802",
+        "input": "Category: HOMETOWN ATHLETES \nClue: Born in 1942, he went to Chicago Vocation High & made crushing ballcarriers his vocation as a Bears linebacker",
+        "output": [
+            "dick butkus"
+        ]
+    },
+    {
+        "id": "openseek-7-a308fa08e6e34c0aba98a5f06bc61d06",
+        "input": "Category: TAKING YOUR LUMPS \nClue: Kipling water carrier called a \"limping lump o' brick dust\"",
+        "output": [
+            "gunga din"
+        ]
+    },
+    {
+        "id": "openseek-7-feae4394d1da4a40beb3d8dbb2c77313",
+        "input": "Category: NOTABLE WOMEN \nClue: She said she healed from a near-fatal fall after reading a passage from the Bible in 1866",
+        "output": [
+            "mary baker eddy"
+        ]
+    },
+    {
+        "id": "openseek-7-f7486f105ef840a79aa171ee67c20ed1",
+        "input": "Category: THE NATIONAL BOOK AWARDS \nClue: At the first National Book Awards, in 1950, Ralph Rusk won for his biography of this other Ralph, an essayist",
+        "output": [
+            "emerson"
+        ]
+    },
+    {
+        "id": "openseek-7-911b498ae7804273adb99baaa9bc0fe0",
+        "input": "Category: ENDORSEMENTS \nClue: The famous black shirt of this country singer who walked the line hangs on the line in Arrow ads",
+        "output": [
+            "johnny cash"
+        ]
+    },
+    {
+        "id": "openseek-7-1c8e2bb1514e4c278ae869ec6a504f44",
+        "input": "Category: ASTRONOMY \nClue: The Maxwell Montes region contains the highest point on this planet, the third brightest object in the sky",
+        "output": [
+            "venus"
+        ]
+    },
+    {
+        "id": "openseek-7-f1bc031636144833b6c4c372a7b0066f",
+        "input": "Category: SCIENCE IN THE 1800s \nClue: In 1861 Eduard Suess, proposer of the concept of Gondwanaland, became professor of this at the U. of Vienna",
+        "output": [
+            "geology"
+        ]
+    },
+    {
+        "id": "openseek-7-4d57cca750564971a0eaef1ff1fb6def",
+        "input": "Category: CONTEMPORARIES \nClue: The only writing Bronte sister whose life overlapped Jane Austen's",
+        "output": [
+            "charlotte"
+        ]
+    },
+    {
+        "id": "openseek-7-6387177aef7f441ea246a892a9d074f2",
+        "input": "Category: ZOOLOGY \nClue: Some of these two-humped camels still roam the Gobi Desert",
+        "output": [
+            "bactrian camels"
+        ]
+    },
+    {
+        "id": "openseek-7-9b65e63196b04ee9adada28ac218463e",
+        "input": "Category: BLUES CLUES \nClue: \"Spider Man Blues\" was a record by this \"Empress of the Blues\"; Sony should be thinking soundtrack!",
+        "output": [
+            "bessie smith"
+        ]
+    },
+    {
+        "id": "openseek-7-3035d84ab1e645fcb9ae72257493811f",
+        "input": "Category: SO THAT'S THE STORY \nClue: Photographer stops to ask directions of an Iowa farm wife; gets 4 days of passionate lovemaking; leaves",
+        "output": [
+            "the bridges of madison county"
+        ]
+    },
+    {
+        "id": "openseek-7-2888b3416b754cd1b434c0436551b1f1",
+        "input": "Category: 19th CENTURY CONSTRUCTION \nClue: It was first designed as \"Egypt carrying the light to Asia\", & its original intended site was Port Said in 1869",
+        "output": [
+            "the statue of liberty"
+        ]
+    },
+    {
+        "id": "openseek-7-9c8ba7b52fdb4dd3a2831bb8c6f6c3e1",
+        "input": "Category: A TRIP TO OUTER SPACE \nClue: Many beautiful images like the one seen here have been given to us by this famous space telescope",
+        "output": [
+            "hubble space telescope"
+        ]
+    },
+    {
+        "id": "openseek-7-ca7ee06a70d94f2681a8ce72d38a35c1",
+        "input": "Category: THE OLD WEST \nClue: This dentist was one of Virgil Earp's deputies in Tombstone, Arizona",
+        "output": [
+            "doc holliday"
+        ]
+    },
+    {
+        "id": "openseek-7-f35131ca88ba4820a42183c6d6fff0fb",
+        "input": "Category: EMMY-WINNING TV \nClue: \"Hill Street Station\" (Writing, 1981)",
+        "output": [
+            "hill street blues"
+        ]
+    },
+    {
+        "id": "openseek-7-6c75d38c29624a76b0d53dc85c58cc47",
+        "input": "Category: HISTORY \nClue: In 1493 he reached Montserrat in the West Indies & named it for a Spanish mountain",
+        "output": [
+            "christopher columbus"
+        ]
+    },
+    {
+        "id": "openseek-7-b7c22c644e1548abb5a35ce28991aed7",
+        "input": "Category: BY THE \"BOOK\" \nClue: The first of these portable libraries was a horse-drawn cart driven by Joshua Thomas in Maryland in April 1906",
+        "output": [
+            "a bookmobile"
+        ]
+    },
+    {
+        "id": "openseek-7-e8d23a38785d4bd5b7fddcc4128c7f5c",
+        "input": "Category: POP MUSIC \nClue: The \"Acid Queen\" costume she wore in \"Tommy\" is now in Cleveland's Rock and Roll Hall of Fame",
+        "output": [
+            "tina turner"
+        ]
+    },
+    {
+        "id": "openseek-7-d6e0bd9b113e47038d862ba62073ec45",
+        "input": "Category: BUSINESS MEN \nClue: This company founded by Berry Gordy Jr. celebrated its 40th anniversary in 1998",
+        "output": [
+            "motown records"
+        ]
+    },
+    {
+        "id": "openseek-7-396e09a0edd9407ebd0b59e80c6a8ecd",
+        "input": "Category: AVERAGE \nClue: Of 2,4,8 or 16, the number of hours a day the TV's on in the average American home",
+        "output": [
+            "8"
+        ]
+    },
+    {
+        "id": "openseek-7-b7514696d7db4197bfd8bc98a375b22e",
+        "input": "Category: WALK THE LINE \nClue: On film Mary Poppins says the children will tread the path described by this pair of proverbial adjectives",
+        "output": [
+            "the straight & narrow"
+        ]
+    },
+    {
+        "id": "openseek-7-52d66642c65145fc915221def0f86276",
+        "input": "Category: SAY, \"WHAT\"? \nClue: Catchphrase often used by Russian-American comedian Yakov Smirnoff",
+        "output": [
+            "\"what a country!\""
+        ]
+    },
+    {
+        "id": "openseek-7-552000dea60c4db6a6fc01e7e24200ad",
+        "input": "Category: CHILD ACTORS \nClue: Henry Thomas, who played this role in \"E.T.\", turned 40 in 2011",
+        "output": [
+            "elliott"
+        ]
+    },
+    {
+        "id": "openseek-7-db565ae6ec8c49e585cd3a27c8f509e6",
+        "input": "Category: REALLY BAD DATES \nClue: Outdated equipment was said to be a cause of the Dec. 3, 1984 deadly gas leak at a plant in Bhopal in this country",
+        "output": [
+            "india"
+        ]
+    },
+    {
+        "id": "openseek-7-ca5c3d8044944fbda2a93edc68275309",
+        "input": "Category: ROCK WITH YOU \nClue: Eric Clapton charted 3 times with this song: in 1971, 1972 & 1992",
+        "output": [
+            "\"layla\""
+        ]
+    },
+    {
+        "id": "openseek-7-c38d4f4255ae434a957398cead797bbf",
+        "input": "Category: DON'T ROCK THE... \nClue: This large barge of the Bible carried passengers in pairs",
+        "output": [
+            "noah\\'s ark"
+        ]
+    },
+    {
+        "id": "openseek-7-cfa22c63c6e74c22ae9ed8e375463593",
+        "input": "Category: FLORA & FAUNA \nClue: Songbird seen here, or a girl's first name",
+        "output": [
+            "robin"
+        ]
+    }
+]

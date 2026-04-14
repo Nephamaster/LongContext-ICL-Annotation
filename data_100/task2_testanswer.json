@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "openseek-2-c90a2b0d5f3e4128b17d17b93d14baf7",
+        "input": "Sentence: 'Man exercising with frisbee on an indoor court'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-fe2911cb90cc40c3a92c92b605231693",
+        "input": "Sentence: 'A person is skying down a mountain among trees'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-771b2b31b5d8487ea70051ffd1f4242b",
+        "input": "Sentence: 'A very long crane truck driving past a very tall building'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-fea1167420764422a284a552cb553278",
+        "input": "Sentence: 'A fruit salad in a bowl with slices of fruit around it'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-33fcb72d067544e9a2bbd03ff47fd525",
+        "input": "Sentence: 'A man walks about in a quiet intersection with the traffic lights changing behind him'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-3d07eee4752446b08d00de54518397a7",
+        "input": "Sentence: 'a couple of people that are playing baseball'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-ca65bbd6a86647418f954177d3708865",
+        "input": "Sentence: 'a person standing in front of a glass surface holding a cellular phone in front of them'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-36c6399b134741598342fc128ae19a75",
+        "input": "Sentence: 'A hotel room with focus on the bed and tables'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-34e7b95564674a1fbcae3dc723ed113d",
+        "input": "Sentence: 'Two people holding tennis rackets on a tennis court'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-3725990ea689477bb233baeaa2d5f8fb",
+        "input": "Sentence: 'Large orange camper parked in front of building'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-0f0afb5f860a46c480f71a2b75a92b8a",
+        "input": "Sentence: 'Snowboarder in blue coat making turn on large slope'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-2995aa7ee0894c76baf7399b9bd6f70f",
+        "input": "Sentence: 'A woman in blue jacket on skis standing on a slope'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-eeac6d8091424f5cac3d76e1564931b7",
+        "input": "Sentence: 'Two people walking down a trail, one carrying an umbrella'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-201074526c834e21a139b80f514f556f",
+        "input": "Sentence: 'A young man holding a kite while sanding in a grassy park'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-2451bb0f6ef048c8bd36d29aa3af18ae",
+        "input": "Sentence: 'A zebra standing in the grass next to a tree'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-5c353426285c47e290729751e34a580c",
+        "input": "Sentence: 'A man holding a hotdog whle looking into the eyes of a pretty young lady'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-8150c7afd750459199d7081be13eeda4",
+        "input": "Sentence: 'two horses in a field of green grass'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-b24cf97bad4441f1a20863321271ae2e",
+        "input": "Sentence: 'A cut in half sandwich sitting on top of a table next to a foam container'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-a1dc999f716645f89e81b851ceba69da",
+        "input": "Sentence: 'A catcher reaching high attempting to catch a softball'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-30487ca63ca94f5bb89cecec83510382",
+        "input": "Sentence: 'A brown teddy bear sitting on top of a sign'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-fabadce3685b476ab6675154bfee8213",
+        "input": "Sentence: 'A dog hanging out of a car in front of a rear view mirror'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-0dd1d5665d6346ff8f03431c759fec32",
+        "input": "Sentence: 'An antenna device that is strapped to the bottom of an aircraft, looking down on trees below'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-59e39fd8624e42b4859a61438f37ab33",
+        "input": "Sentence: 'A person crossing a road near a stop sign beside a wooded area'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-a6f1042910984aabb404321fa5be2b03",
+        "input": "Sentence: 'A single engine prop plane flying with a person on top'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-5ac6e19732cd43399a23f87481ead514",
+        "input": "Sentence: 'A pretty woman laying in bed with a bulldog under her pillows'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-6eb214ec3d884ef0a65993b52671e29b",
+        "input": "Sentence: 'Some kind of equipment sticking to the side of a surface'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-6c7ca327e0194deda622f45be1d8a623",
+        "input": "Sentence: 'A abandoned yellow and blue train on tracks'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-fd8517e4ccd44edca74ee7724f1693f9",
+        "input": "Sentence: 'A herd of cattle grazing on a dry grass field'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-e4ef3b0cc86a4664967f3056d24f26b9",
+        "input": "Sentence: 'a number of cows sitting near one another in a field of grass'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-201bd24a810b458ea884041f22684387",
+        "input": "Sentence: 'a animal standing in some snow next to a wire fence'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-600048589b534062b7944758d1e5ee00",
+        "input": "Sentence: 'A man in a mask is sitting on a bench'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-634f4e34d0c54c49a535cdf6205f6541",
+        "input": "Sentence: 'A FAMILY WITH A DAD, DAUGTHER , AND SON POSING AT A SNOW RESORT'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-920849b3499a457d9c41240025281311",
+        "input": "Sentence: 'People in a restaurant talking and working on laptops'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-da4b6eb8b1fa43d6ae14d96705ccfac4",
+        "input": "Sentence: 'A man taking a picture of three children under a blooming tree'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-479671bbbe45430f8e0f5d8213c2be20",
+        "input": "Sentence: 'A man wearing a dress shirt and a tie sitting against a dark background'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-c5ada5feb4fe4da1bf77025e3b9fde88",
+        "input": "Sentence: 'Many plates of food with their silverware'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-02f352a7a451458e9f43978bddfb1597",
+        "input": "Sentence: 'A surfer carrying his surf board over his head on the beach'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-1f487e826f2c4bc29ecfdf8b54c4274b",
+        "input": "Sentence: 'Three children are sitting with food in the park'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-b6a2b314b94742f8a61cffc33c82fc8f",
+        "input": "Sentence: 'A molting bird standing on a board on a grassy area'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-f44f007444104215bf59f1ab1d963926",
+        "input": "Sentence: 'In a men's bathroom, there are photos of men over the urinals'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-f32bb3b8bc004a4a93482002e184d288",
+        "input": "Sentence: 'A group of people dressed in beach attire with several holding suf boards'. Count the number of nouns in this sentence.",
+        "output": [
+            "6"
+        ]
+    },
+    {
+        "id": "openseek-2-b8f41e12d8ac43b9aed731a2e945eb3b",
+        "input": "Sentence: 'Several horses and a tent are on the beach'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-ec3ec4116e9449e0904c30ab7fc9ec80",
+        "input": "Sentence: 'A person jumps above a body of water'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-33f336a5da5a4e588c39f85ab9eaa1e9",
+        "input": "Sentence: 'A glass vase with fresh flowers on a table with a glass angel'. Count the number of nouns in this sentence.",
+        "output": [
+            "6"
+        ]
+    },
+    {
+        "id": "openseek-2-41113babaccf4958a3fedc47879699a3",
+        "input": "Sentence: 'A person riding a wind-sail on top of a body of water'. Count the number of nouns in this sentence.",
+        "output": [
+            "6"
+        ]
+    },
+    {
+        "id": "openseek-2-860765f663514064a8c3fbc83ab10aaf",
+        "input": "Sentence: 'A small pizza is displayed on a small plate'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-06c7273934a641e194321fff80d88061",
+        "input": "Sentence: 'The kitchen is equipped with all the latest appliances'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-a00335c5373545dfaf06c52684b69364",
+        "input": "Sentence: 'A nicely decorated hotel room with a great view'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-4faddef9867640608a0d4ce70ea182cd",
+        "input": "Sentence: 'A small, white-walled kitchen with wood cabinetry and a number of built in floodlights, is nearly empty, save for a refrigerator and a lot of cleaning supplies resting on one counter'. Count the number of verbs in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-03e8d2e34b1747758e5e0a447a1a58ef",
+        "input": "Sentence: 'Some food that is sitting by a computer'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-7491e55efb594bf7add69d77b6a0b344",
+        "input": "Sentence: 'A boy doing a trick with a skateboard on a ramp'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-f2e7a83fcbe04b1997142786d56928f7",
+        "input": "Sentence: 'A women who is looking at her cell phone'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-ad4eaafda4af463c968df4a85d03cfc9",
+        "input": "Sentence: 'Three sports motorcycles and a truck in a parking lot'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-9781bff04ded475db2b2a6596b55d22a",
+        "input": "Sentence: 'A woman cross-country skiing outside in the snow'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-3c13c7a0096445b8824a8d7aec7b7a0a",
+        "input": "Sentence: 'A bird with a long beak wades in algae-covered water'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-a957e1dd7a3841379b21bb585c261fbf",
+        "input": "Sentence: 'A bus on a street with cars and bicyclists'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-5c93e61f669d4f188e3b4d73427c5294",
+        "input": "Sentence: 'a living room with some brick walls and a fireplace'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-db9338d804da457ab219e58aeca4ee71",
+        "input": "Sentence: 'A large bedroom with bathroom, sitting area, and fireplace'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-12d274cf583840d2aae123b0f36ad25e",
+        "input": "Sentence: 'A small white dog wearing a black hat'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-78f9d07075bc4b8da5dccc75b33e2dce",
+        "input": "Sentence: 'A group of baseball players standing on top of a baseball players'. Count the number of nouns in this sentence.",
+        "output": [
+            "6"
+        ]
+    },
+    {
+        "id": "openseek-2-1ee2a27adcb14f9f97b14c6c70d1d32f",
+        "input": "Sentence: 'A boat sits in the harbor along side other boats'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-d40cba31d8fd48fabedb5c65d2a66e56",
+        "input": "Sentence: 'A red stop sign that reads \" Hammer Time \" next to a forest'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-3b151eb19e0e4b0388ffb2a65357595c",
+        "input": "Sentence: 'a close up of a cake with a horse'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-d3737cb3140b48eb8d68ee2cb0fc255d",
+        "input": "Sentence: 'A group of people playing frisbee against each other'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-9a8882164e5d40458fd5324de50d88ae",
+        "input": "Sentence: 'An old self portrait of a man dressed nice'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-60789859ba2047bd912e16563751e9bd",
+        "input": "Sentence: 'Two yellow and blue fighter jets flying close to each other'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-4eccab8df4e544898b9adab051f97480",
+        "input": "Sentence: 'A bench next to a wall with a staircase behind it'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-6d936f2183084c82ab7c7db77724f831",
+        "input": "Sentence: 'A person walking on the snow in the woods'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-56ef10841637494f8c6db3b940469ed2",
+        "input": "Sentence: 'A bowl of fresh fruit mixed with cereal and yogurt'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-422507373b4d4ff589602b9fa2832041",
+        "input": "Sentence: 'The train is traveling down the railroad tracks'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-8f55e6ecf4a340b0a3568560dbc5dc9c",
+        "input": "Sentence: 'A motorist on a jet ski flies by people on a boat'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-4341663b64bb49a6a40eac605be81b58",
+        "input": "Sentence: 'A young girl, barley taller than a fire hydrant, stands next to a fire hydrant on the sidewalk of the city street'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-1e35876a040b448aba5890c2cf3c5ba6",
+        "input": "Sentence: 'A closeup view of a bathroom sink, that is very modern'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-dab0965695aa4973a1b98e5877574748",
+        "input": "Sentence: 'Park where people are sitting in the grass and a boy running after a yellow Frisbee'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-cd41154bfa8547148be25ff64e0c5fc8",
+        "input": "Sentence: 'The ladder of a jet is lowered from the side for loading passengers'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-cb21c5e62f7b49499f8bf4b7b4864442",
+        "input": "Sentence: 'Three black cats laying or sitting on the floor'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-3cc82463437c43148db78bafd120a88e",
+        "input": "Sentence: 'A mother sheep and her lamb in the middle of a pasture'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-fccf880051f1452c8849950b398887b9",
+        "input": "Sentence: 'a plane sitting on a runway with nothing around it'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-cba9ba75f4ca4898a3b9e5bc03d6ea47",
+        "input": "Sentence: 'a living room with some lights a television set a table and a brown couch'. Count the number of nouns in this sentence.",
+        "output": [
+            "6"
+        ]
+    },
+    {
+        "id": "openseek-2-ccd2ea62758b4872a8e76796436d48b2",
+        "input": "Sentence: 'A laptop, mouse, cell phone and a notepad sitting on a table'. Count the number of nouns in this sentence.",
+        "output": [
+            "6"
+        ]
+    },
+    {
+        "id": "openseek-2-4f49212b8c76411685891d6a3edc1f58",
+        "input": "Sentence: 'A small white and brown dog carrying a red frisbee'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-3d5a73fc0c9b490bb2635cb3438d2845",
+        "input": "Sentence: 'a tennis player swinging a tennis racket'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-bb4e799ef9df439e85976e74af72f303",
+        "input": "Sentence: 'A cake with a train on a track and a ground made of cookies'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-16d9cb11aa3b4253a4a3e8b5254a45c7",
+        "input": "Sentence: 'A family at play with a frisbee in the back yard'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-44f432bf08d34368a80e836ca79dfc9b",
+        "input": "Sentence: 'there is a woman standing and playing a video game'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-e7e7eee40a7345758ddd32728c655e3f",
+        "input": "Sentence: 'A spray paint covered fire hydrant on a side walk'. Count the number of nouns in this sentence.",
+        "output": [
+            "6"
+        ]
+    },
+    {
+        "id": "openseek-2-006a1a08c9334b1a8b6e6a9f5854bd4f",
+        "input": "Sentence: 'A group of people gather together at a street corner'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-4e2287eab0ab415e8850cfa0fb714816",
+        "input": "Sentence: 'A painting of a zebra on a concrete wall'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-c16945cb6eba476497cbca39f6cc7f2c",
+        "input": "Sentence: 'There is food on the plate on the table'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-186d354866b44f518858b07315462d50",
+        "input": "Sentence: 'Cat sitting on edge of bathroom sink cabinet in residence'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-d5b17af1e5024376b3a9b7c6aa6c1159",
+        "input": "Sentence: 'People are playing in the water in front of some hills'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-7fc8ff74750445fab50f7d5bcfdf6d58",
+        "input": "Sentence: 'A picture of a cat looking at its reflection in the water'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-b46424578c694e8bace44986efc0f9a1",
+        "input": "Sentence: 'A cardboard sign is stapled onto a tree on a street'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-1ed3757c4d1e4c7f927fcb6a981f3748",
+        "input": "Sentence: 'A little girl gets help brushing her teeth'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-8b730d3d46984527aef1e2f329283d7e",
+        "input": "Sentence: 'Some people are on a boat in the water with a bike'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-55c602e6d56947069030f7b11e152867",
+        "input": "Sentence: 'A large variety of umbrella of various colors that are high in the air'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-9f68be0f33094f03ab7a473b48312b6a",
+        "input": "Sentence: 'A road with several cars going in both directions as well as a stop light'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-655a6e5d14644b29bd27dd14518497de",
+        "input": "Sentence: 'Two school buses travelling on the same street near buildings'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-ff7b43524ff946158591d31fca157314",
+        "input": "Sentence: 'A cute giraffe is standing next to some trees'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-5de56104441b4068a5567cdb99e91efa",
+        "input": "Sentence: 'A cardboard sign is stapled onto a tree on a street'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-7f039dbbe66e41fcb72d67901528b82b",
+        "input": "Sentence: 'Mother and child elephants in a zoo enclosure'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-c36739da961748ed86bdad9bb941715c",
+        "input": "Sentence: 'The woman is flying a kite on the beach'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-a6462fdeaa30412bb77f0adfb6741873",
+        "input": "Sentence: 'A display of something outside in the snow weather'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-81298a0f00df40f785ead21722df8a9c",
+        "input": "Sentence: 'Two pizzas are on a table with many candles'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-1eb21a96246f4e2fa8686d57cc7b23f5",
+        "input": "Sentence: 'A bathroom has a sink, mirror and shower without a shower curtain'. Count the number of nouns in this sentence.",
+        "output": [
+            "6"
+        ]
+    },
+    {
+        "id": "openseek-2-0938976cd1944c6ca75d11ad49f06249",
+        "input": "Sentence: 'Two hot dogs with chili, cheese and tomatoes'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-d4fac56c19c84759a4a0c60ff1c44db0",
+        "input": "Sentence: 'a white room with a blue bed with a wooden frame'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-0e37bc92d53b42e99b1b03a387c65528",
+        "input": "Sentence: 'A man is playing with a Frisbee in front of a car park sign'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-56b62584afc24bf9aee7139f33e52498",
+        "input": "Sentence: 'A white toilet and a sink in a room'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-806d73ce314048068614fd61699078ed",
+        "input": "Sentence: 'A man sitting on a couch on his laptop'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-0989dc73308340a19da73fd7aed1b437",
+        "input": "Sentence: 'A sign that has arrows pointing in opposite directions, one of the arrows has a dog sticker on it'. Count the number of verbs in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-f7b635961d4e4ffdadb784c2d7cc7873",
+        "input": "Sentence: 'A parking meter in front of a car'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-ea99069701094b5bbf2972b6eef88a30",
+        "input": "Sentence: 'A giraffe that has its legs spread out'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-0dcafb1cdd1e46d68e4f6df285725adf",
+        "input": "Sentence: 'A person in the water standing on a surfboard'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-e6edccc377a643c1b031702bb97ce0f0",
+        "input": "Sentence: 'A group of cause walkers walking on a closed road in the rain'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-6945c1fcbf874e35bf5c98ca2621eb31",
+        "input": "Sentence: 'A photograph taken from an airplane window while in flight'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-bfcd1e0b88b745f29d26e30acd1b47b0",
+        "input": "Sentence: 'A young man carries a backpack and surfboard'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-320ca7a9ca8a4ad6b8a5977143b9514d",
+        "input": "Sentence: 'A white bath tub sitting next to a window'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-d6bed8a27abc43afbeb7f6e9e664b2e9",
+        "input": "Sentence: 'A man plays tennis in front of crowd'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-04b6ee08ba9543f6ad0e6b5d067a5958",
+        "input": "Sentence: 'a bathroom with two toilets seperated by a divider'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-60c9af64d6a64f48b82dd2ca016c333c",
+        "input": "Sentence: 'An action photo scene with the same person doing multiple things in the kitchen'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-176d3d691015421db08e49ea10f5a383",
+        "input": "Sentence: 'Some female players in action on a field'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-be0913b1219c4c40aff0616a5f4ca70f",
+        "input": "Sentence: 'A young couple sitting with an umbrella looking down at a cell phone'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-cbf9be661b7e45499495e6f7691090ca",
+        "input": "Sentence: 'Three items a box of wildflower mix, a blue book and a brown book are sitting on a display'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-a63bce21ff404ca0b509187d62b95856",
+        "input": "Sentence: 'A baby laying next to a teddy bear on a blanket'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-c81bfaef590c4593a84b61c3b68e3108",
+        "input": "Sentence: 'A person in a red uniform on a red motorcycle'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-d2cb70c3b1d442bb8bd2495d67cca0f0",
+        "input": "Sentence: 'A woman with red hair wearing a uniform eats a hot dog'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-318a5e4455404422ae64bbedf65c5e16",
+        "input": "Sentence: 'A batter swinging at a baseball at a game'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-41e6273b5f7f42caa5cf7776551b3c9f",
+        "input": "Sentence: 'A semi-truck without a trailer attached to it'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-b042b1520ac245fc926f4986e70de52f",
+        "input": "Sentence: 'A man with an orange shirt hurls a frisbee in front of him'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-a38e8a7ec1dc45ac985b148112c13c62",
+        "input": "Sentence: 'A stone building with many arched windows and a large clock'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-c5e70eded2194a6a9c1d0b4497e6093a",
+        "input": "Sentence: 'A person holding a remote control pointed at a television'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-08553f29b88848b3a9a0d9bb36873a18",
+        "input": "Sentence: 'A mp3 player sitting on top of a speaker system'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-3c55da5e9d404c6089be9dc256d00240",
+        "input": "Sentence: 'a little league plater holding a bat during part of a game'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-647c962cb4274ed8af4ea3d576d9b611",
+        "input": "Sentence: 'a clear water filled vase holding budding stems'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-c000bd5d371e472da0fdb2c17b12e109",
+        "input": "Sentence: 'a women that is playing some kind of wii'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-6ca802ab5f3b4321a5f165da737adba0",
+        "input": "Sentence: 'Two guys giving a thumbs up on their skis'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-d4395d15bd534cf0a1142e05e2f2fa31",
+        "input": "Sentence: 'An umbrella upside down outside on the dirt'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-ed10fca01e024de18e32723dcebc1ec5",
+        "input": "Sentence: 'Baby having its teeth brush with a tooth brush'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-a4f7724645274f0bad0d1df671ea152f",
+        "input": "Sentence: 'A black cat is laying on the back of a couch'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-ba080e7f98c24697aa0ad20f2d370664",
+        "input": "Sentence: 'A green slope is full of canoes up on the grass'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-c13879218fb54ab8b28d94d686c5f745",
+        "input": "Sentence: 'A person is swinging a tennis racket at a ball on a court'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-38311e9e347a49e1bbd06ef93357dea1",
+        "input": "Sentence: 'A large wooden kitchen with stainless steel appliances'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-a95d6c3ed9924e2e8b76686f3cb45716",
+        "input": "Sentence: 'a white microwave sitting on top of a brown one'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-146859818b694c66b7d6938cba08e418",
+        "input": "Sentence: 'Two man in front of a tree holding up items'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-c2211ed2cc884567b131e04122155277",
+        "input": "Sentence: 'A group of men walk down a path with a group of ox'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-8ad4bdbbfb6b443e81f3325e7d20583f",
+        "input": "Sentence: 'two small kids sitting in a lap of a teddy bear'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-ad0a4924852946328dc3b65edb99fe1f",
+        "input": "Sentence: 'A bench next to a tree on a hill'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-da481b5770e64b418e833d626d059546",
+        "input": "Sentence: 'A rusty old train on top of train tracks'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-b7f7538c5d9d413cb4e129b0f67baa04",
+        "input": "Sentence: 'A young blond boy flying a yellow kite'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-0ef49cb47d754a4cad199ca3d9f5a349",
+        "input": "Sentence: 'Three lights surrounding a brass clock with two faces showing time of 3:48'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-a34a5af6eb364224a4e5b245f039413a",
+        "input": "Sentence: 'Two empty wooded benches overlooking a calm beach'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-bf6f8851db4a432fb6891a06894bcde7",
+        "input": "Sentence: 'An elephant is by itself standing for the picture'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-803528a0137b4448833c96bfda0dbfbb",
+        "input": "Sentence: 'a couple of sheep walk on some grass'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-5556f9d8b68f400aa0100aeee8a645aa",
+        "input": "Sentence: 'An oriental musical group gathered in a field'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-d5096853241d4da9bc10511628798fc6",
+        "input": "Sentence: 'A cat lays on top of a shelf'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-5c39d6f6fb1a47cf9823afe8a0fad776",
+        "input": "Sentence: 'A laptop computer is on a table next to a window'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-ab2d86f3097340c293e8d6b2e063f8c2",
+        "input": "Sentence: 'A young boy wearing a baseball uniform and holding a baseball bat'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-3b40f8f2f93742018f573c14faa7a3ee",
+        "input": "Sentence: 'Traffic warning sign framed by a commercial building in the background'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-5fdff7c2036144cca8694e3100b67fd9",
+        "input": "Sentence: 'Several white vases of different sizes with flowers in some'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-dac7ba407bdb435ea5ed4a603d91b108",
+        "input": "Sentence: 'A brown horse grazing in its fenced in pen'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-dc48e961c16a4ed1893e3a10fc6bbb9f",
+        "input": "Sentence: 'A plane sits on the tarmac ready for takeoff'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-4aea8bfe7e764cb39d989de07a21ca4c",
+        "input": "Sentence: 'A small pizza is displayed on a small plate'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-38fffb04616b40db9d86511a3daf944c",
+        "input": "Sentence: 'A living room with a couch and pictures on the wall'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-d092eefc78f84d1aa20579b25c5890c1",
+        "input": "Sentence: 'an abandoned boat sitting on the side of the road'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-33bd2050c28a41abbdd3951e144ec861",
+        "input": "Sentence: 'A group of people standing together talking '. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-901c2580557c4def8d320da882f26fe7",
+        "input": "Sentence: 'A person watching an elephant walking down a dirt road carrying people on its back'. Count the number of nouns in this sentence.",
+        "output": [
+            "6"
+        ]
+    },
+    {
+        "id": "openseek-2-febc8b42981942b4af7975d656ce4a2e",
+        "input": "Sentence: 'Three labs are standing near a grassy doorway'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-342e2537553f4197a136307af4d97ad8",
+        "input": "Sentence: 'A man riding a skateboard down a ramp'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-a33662e1ce504c5a8197723ee5957dec",
+        "input": "Sentence: 'A baseball game in progress with the batter in the middle of the swing'. Count the number of nouns in this sentence.",
+        "output": [
+            "6"
+        ]
+    },
+    {
+        "id": "openseek-2-10af34e266f54c109354e55109628c51",
+        "input": "Sentence: 'A photo of a TV dinner beside a computer and action figures'. Count the number of nouns in this sentence.",
+        "output": [
+            "6"
+        ]
+    },
+    {
+        "id": "openseek-2-ab6aaf9cab0642f0b6d4ae91e6e83395",
+        "input": "Sentence: 'A clock tower near a road where cars are driving and a building'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-2619fe431a12402eabe6153941825e9b",
+        "input": "Sentence: 'A large elephant in a tall grass field'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-23c7950b78a0431fb4c5186d891ea935",
+        "input": "Sentence: 'A male tennis player returns a lob at a packed tennis court'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-40a69aed83e141879dea2cc6a9b37030",
+        "input": "Sentence: 'a lady that has a flashlight into a mirror'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-dfa53391ebd24fbcab09639a80d43c17",
+        "input": "Sentence: 'Skateboarder and black outfit on his board on a ramp'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-26cfcc872b4047698ab65ae8ae8c11e0",
+        "input": "Sentence: 'a person holding an open umbrella and a cell phone'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-76cb1fd2366146a09bde7a79810162f8",
+        "input": "Sentence: 'The private parking sign has been saved by someone'. Count the number of nouns in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-296ab289a17243f885b62cf26f990927",
+        "input": "Sentence: 'a man is rowing in a boat in the water'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-28dfbd47109543c989f2498f9eac3a8f",
+        "input": "Sentence: 'A person sitting on a motor bike on a street'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-8ca44f80f662497ea93725e9c8b763aa",
+        "input": "Sentence: 'A man dressed in black is standing in front of a black motorcycle'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-4fe0fbb6174340a592a88736e8c5960f",
+        "input": "Sentence: 'A man holding two plates of food with a white apron on'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-db4cbe4ef83a4975ad1ca50499f84f24",
+        "input": "Sentence: 'A woman holds a bunch of bananas on a motor bike'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-c60740c89bcc43ff9e77b0e3b2cb1efd",
+        "input": "Sentence: 'Many people are scattered together at some type of market'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-d7fe5f7d6059437381896d511bacd519",
+        "input": "Sentence: 'Two people on a motorcycle, driving on a highway in the mountains'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-e8aacfaf6e164f5fb62fba9bcf17406e",
+        "input": "Sentence: 'One person putting toothpaste on another persons toothbrush'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-ac679b928adc4fd29537b9e77762159b",
+        "input": "Sentence: 'A young man playing tennis prepares to serve the ball'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-45e71e4e5d4146b8bed7859808d0a67f",
+        "input": "Sentence: 'An older boy holding his younger brother behind a jail cell'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-098036bd21c04daab5b89d629f7f264b",
+        "input": "Sentence: 'a line of red double decker buses driving down the road'. Count the number of nouns in this sentence.",
+        "output": [
+            "4"
+        ]
+    },
+    {
+        "id": "openseek-2-cf44b46ca432483ab1159882017bd9a3",
+        "input": "Sentence: 'An empty bathroom is shown with light cabinetry'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-8287515662034dc69a88d7bfbc3504ac",
+        "input": "Sentence: 'A woman playing a game of frisbee on a lush green field'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-73c09effcbaa41a582336bed20850b31",
+        "input": "Sentence: 'A man wearing a stripped shirt with a stripped tie'. Count the number of nouns in this sentence.",
+        "output": [
+            "3"
+        ]
+    },
+    {
+        "id": "openseek-2-2da46052957745768b0f74d6535ffe5e",
+        "input": "Sentence: 'A small brown and white kitchen with a center island'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-409c4397f1504f1eb0fe4a7068c17367",
+        "input": "Sentence: 'a man showing off his cell phone to someone sitting next to him'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-63573b1636fe4cbd93a08c6bec4c3888",
+        "input": "Sentence: 'Cattle in their stalls at a  fair with a blue ribbon displayed overhead'. Count the number of verbs in this sentence.",
+        "output": [
+            "1"
+        ]
+    },
+    {
+        "id": "openseek-2-6a4e607f4a5a47bea0fb11d3a74b653f",
+        "input": "Sentence: 'A small oval orange couch and ottoman with pineapple pillows'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-f10947ea34bc404dbdeff8c25b7415f1",
+        "input": "Sentence: 'An older man sits on a bench while gazing at the water'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    },
+    {
+        "id": "openseek-2-e51b9a9dd0bc43ef9d09799fc66f9a6a",
+        "input": "Sentence: 'A boy in a blue and white shirt playing tennis on a brown tennis court'. Count the number of nouns in this sentence.",
+        "output": [
+            "5"
+        ]
+    },
+    {
+        "id": "openseek-2-bc612c80b01742fea92469bddcb9ca29",
+        "input": "Sentence: 'A kid with a toothbrush in a white sink'. Count the number of verbs in this sentence.",
+        "output": [
+            "0"
+        ]
+    },
+    {
+        "id": "openseek-2-75c2f619596c48729917c18de420bac2",
+        "input": "Sentence: 'A man on a scooter sits beside a stop sign'. Count the number of verbs in this sentence.",
+        "output": [
+            "2"
+        ]
+    }
+]

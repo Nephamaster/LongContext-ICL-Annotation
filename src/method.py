@@ -48,9 +48,11 @@ def build_prompt____(task_description: str, text2annotate: str) -> str:
 
 def build_prompt(task_description: str, text2annotate: str) -> str:
     """
-    Construct a high-precision prompt for long-context data annotation (optimized for Qwen3-4B).
-    task_description: Clear description of the annotation task (e.g., "Classify English product reviews as Good Review/Bad Review").
-    text2annotate: The text to be annotated (single text or batch texts).
+        Construct a strict-and-stable prompt for long-context data annotation.
+        Strategy:
+        1) keep strict output constraints,
+        2) keep example-learning guidance,
+        3) allow internal reasoning only (do not expose reasoning text).
     """
     prompt = (
         "### Role Definition\n"
@@ -60,17 +62,22 @@ def build_prompt(task_description: str, text2annotate: str) -> str:
         "### Core Task\n"
         f"{task_description}\n\n"
         
-        "### Critical Annotation Guidelines\n"
-        "1. **Example Learning Requirement**: Thoroughly analyze and fully learn from the annotation logic, format, and criteria in the Examples section. "
-        "Your annotation must align with the style, judgment standards, and tag usage shown in the examples.\n"
-        "2. **Thinking Process**: You may (and are encouraged to) explain your annotation reasoning step by step (e.g., key information extraction, judgment basis, rule matching).\n"
-        "3. **Mandatory Output Rule**: Regardless of any thinking process you provide, your final annotation result MUST be enclosed in <label> tags (this is non-negotiable).\n"
-        "   - Correct example: \n"
-        "     Reasoning: This review mentions 'excellent quality' and 'very satisfied', which meets the criteria for a Good Review.\n"
-        "     <label>Good Review</label>\n"
-        "   - Wrong example 1 (missing tags): This review is negative.\n"
-        "   - Wrong example 2 (incomplete tags): Bad Review</label>\n"
-        "4. **Length Adaptation**: For long texts, maintain complete thinking process and ensure the final <label> tags contain the accurate annotation result (no truncation).\n\n"
+            "### Non-Negotiable Rules (Highest Priority)\n"
+            "1. **Final Output Mandate**: Your final answer MUST be wrapped in <label> and </label>.\n"
+            "2. **No Extra Text**: Do NOT output any text outside the label tags (no explanations, no prefixes, no suffixes, no extra spaces/newlines outside tags).\n"
+            "3. **Tag Strictness**: Use exactly one valid tag pair: <label>...</label>. Tags must be paired and complete.\n"
+            "4. **Internal Reasoning Only**: You may reason internally, but do NOT reveal your reasoning in the output.\n"
+            "5. **Length Safety**: Even for very long inputs, return only the final label content inside tags; do not truncate the label result.\n\n"
+
+            "### Example Learning Requirement\n"
+            "Thoroughly analyze and fully learn from the annotation logic, format, and criteria in the Examples section. "
+            "Your annotation must align with the style, judgment standards, and tag usage shown in the examples.\n\n"
+
+            "### Output Format Checks\n"
+            "- ✅ Correct: <label>answer</label>\n"
+            "- ❌ Wrong (extra text): The answer is <label>answer</label>\n"
+            "- ❌ Wrong (missing tags): answer\n"
+            "- ❌ Wrong (broken tags): <label>answer\n\n"
         
         "### Examples (Must Be Fully Followed)\n"
         "[[EXAMPLES]]\n\n"
@@ -78,10 +85,8 @@ def build_prompt(task_description: str, text2annotate: str) -> str:
         "### Text to Annotate\n"
         f"{text2annotate}\n\n"
         
-        "### Final Requirement Summary\n"
-        "1. You can (and should) provide clear thinking process for your annotation.\n"
-        "2. The final annotation result MUST be wrapped in <label> tags (no exceptions).\n"
-        "3. All annotation logic must strictly follow the examples provided above.\n"
+            "### Final Command\n"
+            "Return ONLY one final annotation result in this exact format: <label>your_answer</label>\n"
     )
     return prompt
 
@@ -164,7 +169,7 @@ def select_examples(all_examples: list[dict], task_description: str, text2annota
     tokenizer = AutoTokenizer.from_pretrained("/mnt/disk4t/heyuxuan/data/models/Qwen/Qwen3-4B", trust_remote_code=True)
     
     # 最大上下文长度限制（Qwen3-4B的上下文窗口默认是8k/32k，可根据实际调整）
-    target_length = 8192  # 若需严格适配Qwen3-4B，建议改为8192（8k）
+    target_length = 30720 # 若需严格适配Qwen3-4B，建议改为8192（8k）  30k(30720)32768
     
     # print(all_examples[0])  # 打印第一个示例，便于调试
 
@@ -236,7 +241,7 @@ def annotate_nvidia(input_prompt:str)->list[str]:
     data = {
         "model": "/mnt/disk4t/heyuxuan/data/models/Qwen/Qwen3-4B",
         "prompt": input_prompt,
-        "max_tokens": 10_000, # max_token = 10k
+        "max_tokens": 5000, # max_token = 10k
     }
 
     # from openai import OpenAI
